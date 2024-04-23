@@ -1,0 +1,1001 @@
+age,gender,time_spent,platform,interests,location,demographics,profession,income,indebt,isHomeOwner,Owns_Car,addiction,addicted
+56,male,7.638579519882376,LinkedIn,Health & Wellness,United Kingdom,Urban,Teacher,60000.0,True,False,False,False,True
+46,female,4.973231919073545,TikTok,Home Improvement,United Kingdom,Urban,Artist,40000.0,True,True,True,False,True
+32,male,7.744115541701767,YouTube,Home Improvement,Australia,Sub_Urban,Student,30000.0,False,False,False,False,True
+60,non-binary,7.1671364203406025,Facebook,Health & Wellness,United Kingdom,Urban,Software Engineer,90000.0,False,True,False,False,False
+25,male,11.563826139408258,LinkedIn,Gaming,Australia,Urban,Student,24000.0,False,True,True,True,True
+38,male,9.005245877423105,LinkedIn,Home Improvement,United States,Urban,Teacher,60000.0,True,True,True,False,True
+56,male,5.536330095548032,Twitter,Health & Wellness,United States,Urban,Artist,40000.0,True,True,True,False,True
+36,male,8.489085415830765,Twitter,Culinary Exploration,Australia,Urban,Engineer,95000.0,True,False,True,False,True
+40,non-binary,7.294670281771462,YouTube,Culinary Exploration,Australia,Sub_Urban,Teacher,60000.0,False,False,True,False,True
+28,non-binary,8.810216173268818,Facebook,E-Sports,Australia,Sub_Urban,Chef,40000.0,True,False,True,True,True
+28,female,8.151873401690958,WhatsApp,E-Sports,United Kingdom,Urban,Software Engineer,72000.0,True,True,False,True,True
+41,non-binary,7.637062318527837,Twitter,Home Improvement,United States,Sub_Urban,Marketer Manager,85000.0,False,False,False,False,True
+53,non-binary,4.795190568033426,Facebook,Book Clubs,Australia,Rural,Engineer,95000.0,False,True,True,False,False
+57,female,7.248363481312225,Instagram,Health & Wellness,United Kingdom,Urban,Lawyer,110000.0,False,True,False,False,False
+41,non-binary,7.386756474671382,LinkedIn,Home Improvement,United States,Rural,Doctor,120000.0,True,True,False,False,True
+20,male,7.747753462282796,WhatsApp,Gaming,United Kingdom,Sub_Urban,Student,24000.0,True,True,False,True,True
+39,male,7.447098327202818,Twitter,Home Improvement,United States,Sub_Urban,Marketer Manager,85000.0,True,True,False,True,True
+19,female,9.821782303017176,Instagram,Gaming,United Kingdom,Rural,Chef,40000.0,False,True,True,True,True
+41,female,8.762617185027203,Instagram,Culinary Exploration,United States,Sub_Urban,Artist,40000.0,False,False,False,True,True
+61,female,5.352199137733695,Pinterest,Book Clubs,United States,Urban,Scientist,100000.0,False,False,False,False,False
+47,male,7.5597136151153475,Twitter,Home Improvement,United Kingdom,Rural,Lawyer,110000.0,False,False,True,True,True
+55,non-binary,7.18389188009146,WhatsApp,Health & Wellness,Australia,Urban,Scientist,100000.0,True,False,True,False,False
+19,male,11.21457136039348,YouTube,Gaming,United States,Rural,Software Engineer,72000.0,True,True,True,True,True
+38,female,9.436922704660098,TikTok,Culinary Exploration,Australia,Sub_Urban,Engineer,95000.0,True,True,True,True,True
+50,non-binary,8.609432101235429,Twitter,Book Clubs,United Kingdom,Rural,Marketer Manager,85000.0,True,False,False,False,False
+29,non-binary,9.934645925962732,YouTube,E-Sports,Australia,Rural,Artist,32000.0,True,False,True,True,True
+39,male,6.870554972432209,YouTube,Culinary Exploration,Australia,Urban,Artist,40000.0,True,False,False,True,True
+61,female,6.659010616805392,Pinterest,Health & Wellness,Australia,Sub_Urban,Teacher,60000.0,True,False,False,False,True
+42,male,8.192601450103984,Twitter,Home Improvement,Australia,Urban,Software Engineer,90000.0,True,False,True,False,True
+44,non-binary,7.956582577386109,Facebook,Home Improvement,Australia,Sub_Urban,Marketer Manager,85000.0,False,False,True,False,True
+59,male,5.7139532563882645,LinkedIn,Health & Wellness,United States,Urban,Software Engineer,90000.0,False,False,True,False,True
+45,male,8.074614559124646,Facebook,Home Improvement,United States,Rural,Engineer,95000.0,True,False,True,False,True
+33,female,7.9137379289174685,WhatsApp,Home Improvement,United States,Urban,Student,30000.0,False,True,True,False,True
+32,female,9.607279627686534,Snapchat,Culinary Exploration,United Kingdom,Sub_Urban,Doctor,120000.0,True,True,True,False,True
+64,non-binary,7.501063660966669,YouTube,Health & Wellness,Australia,Sub_Urban,Lawyer,110000.0,True,True,False,False,False
+61,male,6.818672346546753,WhatsApp,Book Clubs,United States,Rural,Teacher,60000.0,False,True,False,False,False
+20,male,8.381479253376195,Twitter,E-Sports,United Kingdom,Sub_Urban,Marketer Manager,68000.0,True,False,False,True,True
+54,male,8.247678882600958,YouTube,Book Clubs,United States,Urban,Artist,40000.0,True,True,False,False,False
+24,non-binary,11.211961939282904,Twitter,Gaming,United States,Rural,Software Engineer,72000.0,True,False,True,True,True
+38,non-binary,8.022658059626956,Twitter,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,True,True,True,False,True
+26,female,8.56015232691291,Facebook,E-Sports,United Kingdom,Sub_Urban,Lawyer,88000.0,True,False,False,True,True
+56,female,7.3651050386047,TikTok,Health & Wellness,Australia,Urban,Lawyer,110000.0,True,False,False,False,True
+35,female,8.791682989549052,Pinterest,Home Improvement,Australia,Urban,Engineer,95000.0,True,True,False,True,True
+21,male,8.085896472130827,WhatsApp,E-Sports,United States,Rural,Student,24000.0,False,True,True,True,True
+42,male,6.205323389483742,LinkedIn,Home Improvement,Australia,Sub_Urban,Chef,50000.0,False,False,True,True,True
+31,female,7.7617692907761295,Instagram,Culinary Exploration,United Kingdom,Urban,Artist,40000.0,True,False,True,True,True
+26,male,10.457841711709815,Facebook,E-Sports,Australia,Rural,Chef,40000.0,False,False,False,True,True
+43,female,7.984202265737155,Snapchat,Home Improvement,Australia,Sub_Urban,Chef,50000.0,True,True,False,False,True
+19,non-binary,10.781519577771208,Twitter,E-Sports,Australia,Sub_Urban,Doctor,96000.0,True,True,True,True,True
+37,female,7.438796133438403,Pinterest,Home Improvement,United States,Rural,Marketer Manager,85000.0,True,False,True,False,True
+45,non-binary,7.6560080473275915,Facebook,Culinary Exploration,United Kingdom,Rural,Doctor,120000.0,True,True,False,True,True
+64,male,6.643442156388605,WhatsApp,Book Clubs,United States,Urban,Student,30000.0,False,False,False,False,False
+24,female,10.466578726206462,Facebook,Gaming,United States,Sub_Urban,Student,24000.0,False,True,True,True,True
+61,male,6.445989948819223,Facebook,Book Clubs,United States,Sub_Urban,Doctor,120000.0,False,True,False,False,False
+25,non-binary,11.498949256147686,WhatsApp,E-Sports,United States,Sub_Urban,Teacher,48000.0,False,True,True,True,True
+64,non-binary,4.59218964956513,LinkedIn,Book Clubs,United States,Rural,Lawyer,110000.0,True,True,True,False,False
+52,non-binary,5.961688181646573,LinkedIn,Health & Wellness,United Kingdom,Urban,Software Engineer,90000.0,False,True,False,False,False
+31,male,10.268425138729624,WhatsApp,Home Improvement,Australia,Sub_Urban,Teacher,60000.0,True,False,False,False,True
+34,male,9.208243279470238,WhatsApp,Home Improvement,United States,Rural,Chef,50000.0,True,False,False,True,True
+53,male,5.741925134065213,WhatsApp,Book Clubs,United States,Sub_Urban,Engineer,95000.0,False,True,True,False,True
+57,male,5.6900746483857905,WhatsApp,Health & Wellness,United Kingdom,Urban,Marketer Manager,85000.0,True,False,False,False,False
+21,non-binary,10.749859857984731,LinkedIn,E-Sports,United Kingdom,Sub_Urban,Engineer,76000.0,False,False,False,True,True
+19,non-binary,11.127937621527998,YouTube,E-Sports,Australia,Urban,Engineer,76000.0,False,True,True,True,True
+23,female,10.745401960909167,Facebook,Gaming,United Kingdom,Urban,Engineer,76000.0,False,False,True,True,True
+59,female,4.818545052789002,Pinterest,Health & Wellness,Australia,Sub_Urban,Teacher,60000.0,False,True,False,False,True
+21,male,8.216110457095848,YouTube,Gaming,United States,Sub_Urban,Artist,32000.0,False,False,True,True,True
+46,non-binary,6.822672038551244,YouTube,Culinary Exploration,United States,Urban,Scientist,100000.0,True,False,True,False,True
+35,non-binary,9.615258837452046,YouTube,Home Improvement,Australia,Rural,Doctor,120000.0,False,False,True,True,True
+43,non-binary,7.390558630596613,LinkedIn,Culinary Exploration,United Kingdom,Urban,Chef,50000.0,False,False,False,True,True
+61,female,5.497612319899199,Snapchat,Book Clubs,Australia,Sub_Urban,Marketer Manager,85000.0,True,False,False,False,True
+51,female,7.144405710579781,WhatsApp,Book Clubs,United Kingdom,Sub_Urban,Student,30000.0,False,False,True,False,False
+27,non-binary,8.382434260519178,YouTube,Gaming,United States,Rural,Scientist,80000.0,False,False,True,True,True
+53,non-binary,7.847969192193239,LinkedIn,Book Clubs,United Kingdom,Urban,Lawyer,110000.0,True,True,True,False,False
+31,non-binary,8.270184040381679,LinkedIn,Culinary Exploration,Australia,Urban,Software Engineer,90000.0,True,True,False,True,True
+48,female,6.320393803072264,Facebook,Home Improvement,Australia,Urban,Student,30000.0,False,True,True,False,True
+32,non-binary,9.171892841204675,YouTube,Culinary Exploration,United States,Sub_Urban,Doctor,120000.0,True,True,True,True,True
+25,non-binary,8.85364397221961,Twitter,E-Sports,United Kingdom,Urban,Chef,40000.0,False,False,False,True,True
+31,male,8.289691618931675,Facebook,Culinary Exploration,United Kingdom,Rural,Scientist,100000.0,True,False,True,False,True
+40,male,7.333299022780098,Twitter,Home Improvement,United Kingdom,Sub_Urban,Lawyer,110000.0,False,False,False,False,True
+57,female,7.994538569459628,Instagram,Health & Wellness,United States,Sub_Urban,Scientist,100000.0,False,True,False,False,True
+38,non-binary,7.362300136852459,WhatsApp,Culinary Exploration,United Kingdom,Urban,Lawyer,110000.0,False,True,False,True,True
+33,non-binary,7.331975579795744,Facebook,Culinary Exploration,Australia,Rural,Engineer,95000.0,True,True,True,False,True
+62,male,6.049602625699112,YouTube,Book Clubs,United Kingdom,Sub_Urban,Doctor,120000.0,False,False,True,False,False
+35,female,7.846875151276659,Facebook,Home Improvement,United States,Sub_Urban,Marketer Manager,85000.0,True,True,False,True,True
+64,male,4.691078446451522,Facebook,Health & Wellness,United Kingdom,Urban,Student,30000.0,False,False,True,False,False
+41,male,9.381642510871163,YouTube,Home Improvement,United Kingdom,Urban,Marketer Manager,85000.0,False,True,False,False,True
+43,male,4.555878495198098,Facebook,Culinary Exploration,Australia,Rural,Software Engineer,90000.0,False,False,True,True,True
+42,male,8.860107829187355,Facebook,Home Improvement,United Kingdom,Urban,Lawyer,110000.0,False,True,False,False,True
+62,non-binary,6.608832063876475,WhatsApp,Health & Wellness,Australia,Rural,Scientist,100000.0,False,False,False,False,False
+58,non-binary,6.034455973991515,YouTube,Book Clubs,Australia,Sub_Urban,Student,30000.0,True,True,True,False,False
+46,male,7.8965655283324,Twitter,Home Improvement,United States,Rural,Student,30000.0,True,True,True,False,True
+32,female,8.30895432001082,Facebook,Home Improvement,Australia,Rural,Scientist,100000.0,True,False,True,True,True
+62,female,6.3364943121818325,Pinterest,Health & Wellness,Australia,Rural,Engineer,95000.0,False,False,True,False,False
+18,female,9.228653650624427,Instagram,E-Sports,United States,Sub_Urban,Teacher,48000.0,False,True,False,True,True
+42,female,7.4790572097388,Facebook,Home Improvement,Australia,Urban,Artist,40000.0,True,False,False,True,True
+24,male,9.777649940692385,Twitter,E-Sports,United States,Sub_Urban,Doctor,96000.0,False,True,True,True,True
+26,non-binary,9.794180521989139,Facebook,Gaming,United Kingdom,Urban,Engineer,76000.0,False,False,True,True,True
+41,female,7.96296098428267,WhatsApp,Culinary Exploration,United States,Rural,Lawyer,110000.0,False,True,False,True,True
+18,male,10.458629620761199,YouTube,Gaming,Australia,Rural,Artist,32000.0,True,False,True,True,True
+61,female,6.092263283702384,Instagram,Health & Wellness,United States,Rural,Student,30000.0,True,True,True,False,False
+25,female,9.693518372078028,Snapchat,E-Sports,Australia,Rural,Marketer Manager,68000.0,True,True,True,True,True
+41,male,8.27713801886914,Twitter,Home Improvement,United Kingdom,Rural,Lawyer,110000.0,True,True,True,False,True
+28,non-binary,10.540940883877463,Facebook,E-Sports,United States,Urban,Software Engineer,72000.0,True,False,False,True,True
+34,non-binary,9.00558188306073,Twitter,Culinary Exploration,United Kingdom,Urban,Artist,40000.0,False,True,False,True,True
+25,male,9.456891907174588,Twitter,E-Sports,Australia,Rural,Teacher,48000.0,False,False,True,True,True
+52,non-binary,6.119656572510063,WhatsApp,Book Clubs,Australia,Sub_Urban,Chef,50000.0,False,False,False,False,True
+52,male,7.529160562008935,WhatsApp,Book Clubs,United Kingdom,Sub_Urban,Engineer,95000.0,False,False,True,False,True
+50,male,7.321947068167269,WhatsApp,Health & Wellness,United States,Rural,Software Engineer,90000.0,True,True,True,False,False
+22,male,8.46492754807214,YouTube,E-Sports,United States,Urban,Marketer Manager,68000.0,True,False,True,True,True
+59,non-binary,5.6551751378218444,Twitter,Health & Wellness,Australia,Sub_Urban,Artist,40000.0,False,False,False,False,True
+56,male,6.243633937327522,YouTube,Health & Wellness,United Kingdom,Sub_Urban,Scientist,100000.0,True,False,False,False,False
+58,female,6.246694063017089,Facebook,Health & Wellness,United Kingdom,Sub_Urban,Artist,40000.0,False,True,False,False,True
+45,non-binary,6.908204533705102,Facebook,Home Improvement,United States,Rural,Scientist,100000.0,False,False,False,False,True
+24,non-binary,10.284648681693671,WhatsApp,E-Sports,United States,Sub_Urban,Chef,40000.0,False,False,False,True,True
+26,non-binary,8.954770253381444,Twitter,Gaming,United States,Sub_Urban,Software Engineer,72000.0,False,False,True,True,True
+25,non-binary,9.506020248376322,Facebook,E-Sports,United Kingdom,Sub_Urban,Software Engineer,72000.0,True,False,True,True,True
+29,female,10.193250737987576,Instagram,E-Sports,United States,Sub_Urban,Software Engineer,72000.0,False,True,False,True,True
+51,non-binary,7.685022150308469,WhatsApp,Book Clubs,United States,Urban,Scientist,100000.0,True,True,False,False,False
+50,non-binary,7.438189213229317,Facebook,Book Clubs,Australia,Rural,Lawyer,110000.0,False,False,False,False,False
+40,male,8.1542929798805,LinkedIn,Culinary Exploration,United States,Rural,Teacher,60000.0,False,False,True,True,True
+41,non-binary,7.569771086109428,YouTube,Home Improvement,United States,Urban,Marketer Manager,85000.0,False,False,False,True,True
+54,female,8.139951104610716,Pinterest,Health & Wellness,United Kingdom,Urban,Scientist,100000.0,False,False,True,False,False
+52,female,6.781706526235893,TikTok,Health & Wellness,United Kingdom,Rural,Marketer Manager,85000.0,True,True,True,False,False
+61,female,4.481075680389937,WhatsApp,Book Clubs,Australia,Sub_Urban,Marketer Manager,85000.0,False,True,False,False,False
+57,female,8.434290005515733,TikTok,Book Clubs,United States,Sub_Urban,Teacher,60000.0,True,True,True,False,False
+39,non-binary,8.748032423055708,WhatsApp,Home Improvement,Australia,Rural,Marketer Manager,85000.0,False,True,True,False,True
+44,non-binary,7.343612126566012,Facebook,Culinary Exploration,United Kingdom,Sub_Urban,Lawyer,110000.0,False,False,False,False,True
+52,female,5.940643337347662,Instagram,Book Clubs,Australia,Urban,Artist,40000.0,False,False,True,False,False
+18,female,10.310183022716913,Instagram,Gaming,United Kingdom,Sub_Urban,Marketer Manager,68000.0,True,True,False,True,True
+52,non-binary,5.348345831018447,Twitter,Health & Wellness,Australia,Sub_Urban,Scientist,100000.0,False,True,True,False,False
+54,female,4.695783045620318,WhatsApp,Health & Wellness,Australia,Sub_Urban,Engineer,95000.0,False,False,False,False,False
+64,male,5.910601365856155,Twitter,Book Clubs,United States,Rural,Teacher,60000.0,False,False,False,False,False
+31,female,8.893399682059238,Pinterest,Culinary Exploration,Australia,Urban,Marketer Manager,85000.0,False,False,True,True,True
+20,female,10.043766476911989,Facebook,Gaming,United States,Sub_Urban,Chef,40000.0,False,False,False,True,True
+18,male,11.067389682138183,YouTube,Gaming,United States,Rural,Engineer,76000.0,True,False,True,True,True
+22,male,9.813370976624379,YouTube,Gaming,United States,Sub_Urban,Artist,32000.0,True,True,True,True,True
+43,non-binary,7.9368434674300925,WhatsApp,Home Improvement,United States,Urban,Lawyer,110000.0,False,True,False,True,True
+31,non-binary,9.302617536097529,Facebook,Home Improvement,Australia,Sub_Urban,Scientist,100000.0,False,False,True,True,True
+56,male,5.921928618938922,YouTube,Health & Wellness,United Kingdom,Urban,Lawyer,110000.0,True,False,False,False,False
+44,male,6.672529906953116,Facebook,Home Improvement,United Kingdom,Sub_Urban,Lawyer,110000.0,False,True,True,False,True
+26,non-binary,9.317584063980355,WhatsApp,E-Sports,United Kingdom,Urban,Software Engineer,72000.0,True,False,True,True,True
+32,female,9.859115903467295,TikTok,Home Improvement,Australia,Sub_Urban,Software Engineer,90000.0,False,True,False,True,True
+32,male,9.32463941757729,LinkedIn,Home Improvement,United States,Urban,Software Engineer,90000.0,False,True,True,True,True
+43,non-binary,9.529100281883968,LinkedIn,Culinary Exploration,United Kingdom,Sub_Urban,Software Engineer,90000.0,True,True,True,True,True
+59,female,5.291735557835376,WhatsApp,Health & Wellness,Australia,Sub_Urban,Engineer,95000.0,False,True,True,False,False
+30,male,8.773886793753107,Facebook,Culinary Exploration,United States,Rural,Software Engineer,72000.0,True,False,True,False,True
+49,female,5.556968228207969,TikTok,Home Improvement,United Kingdom,Rural,Doctor,120000.0,True,False,True,False,True
+56,non-binary,6.972996248920486,WhatsApp,Book Clubs,United States,Urban,Chef,50000.0,True,True,True,False,True
+49,male,8.25168497863147,YouTube,Culinary Exploration,United Kingdom,Sub_Urban,Chef,50000.0,False,False,True,True,True
+21,female,8.999932673969942,Pinterest,E-Sports,United Kingdom,Urban,Doctor,96000.0,True,False,True,True,True
+47,male,7.818395150515816,Twitter,Culinary Exploration,United Kingdom,Rural,Engineer,95000.0,True,False,False,False,True
+54,female,6.359180545684379,TikTok,Health & Wellness,United States,Urban,Marketer Manager,85000.0,False,False,True,False,False
+40,non-binary,6.984803893011006,WhatsApp,Home Improvement,Australia,Urban,Engineer,95000.0,False,True,True,True,True
+56,non-binary,5.700592676653672,Twitter,Book Clubs,United States,Rural,Teacher,60000.0,False,False,False,False,False
+62,male,6.934469593199545,LinkedIn,Book Clubs,United Kingdom,Sub_Urban,Engineer,95000.0,False,True,False,False,False
+32,female,7.641516798970674,Instagram,Culinary Exploration,United States,Urban,Software Engineer,90000.0,False,True,False,False,True
+60,male,5.6875322258174394,LinkedIn,Health & Wellness,Australia,Rural,Marketer Manager,85000.0,False,False,True,False,False
+46,male,7.863988249682947,LinkedIn,Home Improvement,United States,Sub_Urban,Software Engineer,90000.0,True,True,False,True,True
+53,female,6.135868647660603,Pinterest,Book Clubs,Australia,Rural,Engineer,95000.0,False,False,False,False,False
+30,female,8.551329105320313,Instagram,Home Improvement,Australia,Urban,Chef,40000.0,True,False,True,False,True
+49,female,8.37397778702599,Pinterest,Culinary Exploration,United States,Sub_Urban,Scientist,100000.0,False,True,True,True,True
+24,non-binary,9.866257476442561,WhatsApp,Gaming,United Kingdom,Sub_Urban,Scientist,80000.0,True,False,False,True,True
+39,male,7.388860944421023,WhatsApp,Culinary Exploration,Australia,Rural,Chef,50000.0,True,True,False,True,True
+45,male,7.285706559751125,Facebook,Culinary Exploration,United States,Rural,Software Engineer,90000.0,False,True,True,True,True
+19,non-binary,10.74187211265886,YouTube,Gaming,Australia,Rural,Student,24000.0,False,False,True,True,True
+59,female,6.464856404563696,WhatsApp,Health & Wellness,United Kingdom,Sub_Urban,Chef,50000.0,True,False,True,False,False
+62,non-binary,5.532166903236002,YouTube,Health & Wellness,United States,Sub_Urban,Engineer,95000.0,False,False,True,False,False
+23,non-binary,10.180322006774809,YouTube,Gaming,United States,Urban,Software Engineer,72000.0,False,True,True,True,True
+45,non-binary,7.407327881801853,Facebook,Culinary Exploration,United States,Sub_Urban,Teacher,60000.0,True,False,False,False,True
+45,male,7.281040819858417,Facebook,Culinary Exploration,United Kingdom,Urban,Lawyer,110000.0,True,True,True,False,True
+61,non-binary,6.618013993069073,Twitter,Health & Wellness,Australia,Rural,Artist,40000.0,True,True,True,False,True
+61,male,5.239845544428127,LinkedIn,Book Clubs,United States,Rural,Marketer Manager,85000.0,False,False,True,False,True
+37,male,7.139143168507938,Facebook,Culinary Exploration,Australia,Sub_Urban,Teacher,60000.0,False,False,True,False,True
+47,male,8.829482772916037,Twitter,Culinary Exploration,Australia,Rural,Student,30000.0,False,False,True,True,True
+28,female,9.681643118912936,WhatsApp,E-Sports,United Kingdom,Rural,Chef,40000.0,False,True,False,True,True
+45,male,6.9341313395129065,Facebook,Home Improvement,United States,Sub_Urban,Lawyer,110000.0,True,False,True,True,True
+42,male,8.078404059919647,WhatsApp,Culinary Exploration,Australia,Urban,Engineer,95000.0,False,True,False,False,True
+56,female,5.5579170524822725,Instagram,Book Clubs,United States,Sub_Urban,Chef,50000.0,True,False,True,False,False
+50,male,8.030298340638762,WhatsApp,Health & Wellness,United States,Urban,Chef,50000.0,False,False,False,False,False
+18,non-binary,9.33933221563823,Facebook,Gaming,United Kingdom,Sub_Urban,Teacher,48000.0,False,True,False,True,True
+44,non-binary,8.169536375987919,LinkedIn,Home Improvement,United States,Sub_Urban,Scientist,100000.0,True,True,True,True,True
+30,male,8.423909636230015,Twitter,Culinary Exploration,United States,Rural,Chef,40000.0,False,False,True,True,True
+58,female,5.574860499527826,Pinterest,Health & Wellness,Australia,Sub_Urban,Marketer Manager,85000.0,False,False,True,False,False
+20,non-binary,9.479914512589435,Facebook,E-Sports,United Kingdom,Sub_Urban,Doctor,96000.0,True,False,True,True,True
+56,female,5.373218873914698,Instagram,Health & Wellness,United States,Urban,Engineer,95000.0,False,False,True,False,False
+23,female,9.590799845931373,Facebook,E-Sports,Australia,Rural,Chef,40000.0,True,False,False,True,True
+25,non-binary,8.247568720202514,LinkedIn,E-Sports,United Kingdom,Urban,Software Engineer,72000.0,True,True,True,True,True
+44,female,8.68800333535069,Pinterest,Culinary Exploration,United Kingdom,Urban,Student,30000.0,True,True,True,False,True
+26,non-binary,8.98151041644134,Twitter,E-Sports,Australia,Rural,Software Engineer,72000.0,True,True,False,True,True
+54,female,5.548727432811273,TikTok,Book Clubs,Australia,Rural,Teacher,60000.0,False,True,True,False,True
+50,non-binary,7.260485635959421,Facebook,Book Clubs,Australia,Rural,Lawyer,110000.0,False,False,False,False,False
+59,male,3.0418569187086697,YouTube,Health & Wellness,Australia,Sub_Urban,Doctor,120000.0,False,True,True,False,True
+61,non-binary,4.940224985095172,Twitter,Book Clubs,Australia,Rural,Scientist,100000.0,True,True,False,False,True
+41,non-binary,8.439268645840436,Facebook,Culinary Exploration,United States,Rural,Teacher,60000.0,False,True,True,True,True
+32,non-binary,8.553270964275614,LinkedIn,Culinary Exploration,United States,Rural,Lawyer,110000.0,False,False,False,True,True
+49,non-binary,5.933752328443207,WhatsApp,Home Improvement,United Kingdom,Urban,Doctor,120000.0,False,True,False,True,True
+49,female,6.5085793256648286,Pinterest,Culinary Exploration,United States,Urban,Teacher,60000.0,False,False,True,False,True
+41,male,8.814152319918174,WhatsApp,Culinary Exploration,United States,Sub_Urban,Engineer,95000.0,True,True,True,False,True
+58,non-binary,4.957616826932184,WhatsApp,Health & Wellness,United States,Urban,Doctor,120000.0,True,False,True,False,False
+29,female,7.416466760619265,Pinterest,E-Sports,Australia,Sub_Urban,Teacher,48000.0,False,True,False,True,True
+56,male,6.871498703824149,Twitter,Health & Wellness,United Kingdom,Urban,Artist,40000.0,True,False,False,False,True
+19,male,12.335560976268585,LinkedIn,E-Sports,United Kingdom,Rural,Lawyer,88000.0,False,True,False,True,True
+20,male,11.907395499873383,Twitter,Gaming,United Kingdom,Urban,Marketer Manager,68000.0,False,False,True,True,True
+54,male,5.856196862128185,Twitter,Book Clubs,United Kingdom,Sub_Urban,Software Engineer,90000.0,False,False,True,False,True
+34,non-binary,8.639614863029701,Facebook,Home Improvement,United States,Urban,Teacher,60000.0,True,True,False,False,True
+19,non-binary,11.089219927600949,Twitter,Gaming,United States,Rural,Engineer,76000.0,False,False,True,True,True
+19,female,11.751819186615462,WhatsApp,Gaming,Australia,Sub_Urban,Artist,32000.0,True,False,False,True,True
+45,female,6.567099150140897,Snapchat,Culinary Exploration,United Kingdom,Rural,Software Engineer,90000.0,True,True,True,True,True
+40,female,7.427111834812594,Instagram,Culinary Exploration,United States,Rural,Scientist,100000.0,False,True,True,True,True
+54,male,7.521974807558215,WhatsApp,Book Clubs,United States,Sub_Urban,Scientist,100000.0,True,False,False,False,True
+49,male,6.331504881336593,Facebook,Culinary Exploration,Australia,Rural,Software Engineer,90000.0,True,True,True,False,True
+50,non-binary,8.293048914427047,Twitter,Health & Wellness,Australia,Rural,Student,30000.0,False,True,True,False,False
+18,male,9.999148731572618,Twitter,Gaming,Australia,Urban,Teacher,48000.0,True,True,True,True,True
+36,male,8.044736204703325,WhatsApp,Home Improvement,United States,Rural,Lawyer,110000.0,True,False,True,True,True
+19,male,11.242005962030621,WhatsApp,Gaming,United States,Rural,Student,24000.0,False,False,True,True,True
+61,female,5.937812858600196,TikTok,Health & Wellness,Australia,Rural,Student,30000.0,False,False,False,False,True
+43,female,8.079545509402823,TikTok,Home Improvement,United Kingdom,Rural,Scientist,100000.0,True,False,True,False,True
+49,non-binary,5.756608591175924,YouTube,Home Improvement,Australia,Sub_Urban,Scientist,100000.0,False,False,False,True,True
+23,male,9.363966942289585,Twitter,E-Sports,Australia,Urban,Software Engineer,72000.0,False,False,True,True,True
+49,male,6.198750414073064,Facebook,Culinary Exploration,Australia,Rural,Scientist,100000.0,True,False,True,False,True
+21,non-binary,10.339588693685874,YouTube,Gaming,Australia,Rural,Artist,32000.0,True,True,False,True,True
+28,male,8.371712399664922,YouTube,E-Sports,United States,Sub_Urban,Marketer Manager,68000.0,False,False,False,True,True
+34,male,8.882633366816817,Twitter,Culinary Exploration,United Kingdom,Rural,Artist,40000.0,True,False,True,True,True
+55,female,5.899873123648323,WhatsApp,Book Clubs,Australia,Sub_Urban,Teacher,60000.0,False,True,True,False,True
+41,non-binary,8.339156915837119,YouTube,Culinary Exploration,United Kingdom,Urban,Engineer,95000.0,False,True,False,False,True
+22,non-binary,9.762838879066178,Twitter,Gaming,United Kingdom,Urban,Student,24000.0,True,True,False,True,True
+51,non-binary,6.051042130978324,LinkedIn,Book Clubs,United Kingdom,Rural,Engineer,95000.0,True,False,False,False,False
+23,non-binary,9.364902288229272,Facebook,E-Sports,Australia,Rural,Software Engineer,72000.0,False,True,False,True,True
+39,female,8.687416307568931,Facebook,Home Improvement,United States,Rural,Student,30000.0,False,False,True,False,True
+28,female,8.172080681222193,Snapchat,E-Sports,Australia,Sub_Urban,Scientist,80000.0,False,False,True,True,True
+33,male,10.273463156237238,Twitter,Home Improvement,United Kingdom,Rural,Teacher,60000.0,False,False,True,True,True
+50,male,8.128581765624249,Facebook,Health & Wellness,United Kingdom,Rural,Software Engineer,90000.0,True,True,True,False,False
+26,male,8.851919085539215,Twitter,E-Sports,United States,Urban,Doctor,96000.0,False,True,True,True,True
+23,male,10.165791157582763,Twitter,Gaming,Australia,Rural,Student,24000.0,True,False,False,True,True
+33,female,7.905908110539744,Facebook,Home Improvement,United Kingdom,Urban,Teacher,60000.0,True,False,False,True,True
+46,non-binary,8.354439624322328,LinkedIn,Home Improvement,United States,Rural,Marketer Manager,85000.0,False,False,False,True,True
+20,female,10.370074733041672,WhatsApp,Gaming,United Kingdom,Urban,Engineer,76000.0,True,True,True,True,True
+37,male,6.545396190753065,LinkedIn,Culinary Exploration,United States,Rural,Chef,50000.0,True,False,False,False,True
+53,female,7.228355659987631,Instagram,Health & Wellness,United States,Urban,Scientist,100000.0,False,True,True,False,False
+36,non-binary,6.623833320890389,Facebook,Home Improvement,Australia,Sub_Urban,Doctor,120000.0,True,False,True,True,True
+43,non-binary,6.545981357942328,Twitter,Culinary Exploration,United Kingdom,Urban,Engineer,95000.0,True,True,True,False,True
+20,female,9.767462165869693,TikTok,Gaming,Australia,Urban,Engineer,76000.0,False,False,False,True,True
+36,female,9.169013569801747,Pinterest,Home Improvement,United Kingdom,Urban,Doctor,120000.0,False,True,True,False,True
+37,female,8.775950924217303,WhatsApp,Home Improvement,Australia,Rural,Student,30000.0,False,True,True,True,True
+49,male,6.725190993235614,Twitter,Culinary Exploration,United Kingdom,Rural,Software Engineer,90000.0,False,True,False,False,True
+24,female,10.072816332470197,WhatsApp,E-Sports,Australia,Rural,Engineer,76000.0,False,True,True,True,True
+58,female,6.539059609739732,Instagram,Book Clubs,United States,Sub_Urban,Teacher,60000.0,False,True,False,False,False
+50,female,8.376135013188994,Snapchat,Health & Wellness,United Kingdom,Sub_Urban,Chef,50000.0,False,True,True,False,False
+57,non-binary,6.3905119570654065,Facebook,Book Clubs,United Kingdom,Urban,Engineer,95000.0,True,False,False,False,False
+56,non-binary,4.6600747414151185,LinkedIn,Health & Wellness,United States,Sub_Urban,Scientist,100000.0,True,False,True,False,True
+35,male,8.591321843263339,YouTube,Culinary Exploration,Australia,Urban,Artist,40000.0,False,False,True,False,True
+57,male,5.714524013761358,YouTube,Book Clubs,United Kingdom,Urban,Teacher,60000.0,True,False,False,False,True
+18,non-binary,11.469821502338952,Facebook,Gaming,United Kingdom,Urban,Software Engineer,72000.0,True,True,True,True,True
+28,non-binary,9.41114882553644,WhatsApp,Gaming,Australia,Sub_Urban,Engineer,76000.0,False,False,False,True,True
+45,non-binary,8.592828353531432,LinkedIn,Home Improvement,United States,Rural,Student,30000.0,True,True,True,False,True
+42,female,7.5295531870935175,Snapchat,Culinary Exploration,Australia,Sub_Urban,Doctor,120000.0,False,True,False,False,True
+40,female,8.556577138651507,Facebook,Home Improvement,Australia,Urban,Student,30000.0,True,True,True,False,True
+48,non-binary,7.127389672569115,Twitter,Home Improvement,Australia,Urban,Marketer Manager,85000.0,False,False,True,True,True
+47,female,7.307960572402616,Instagram,Home Improvement,United Kingdom,Sub_Urban,Artist,40000.0,True,True,True,True,True
+59,female,7.279802603203355,TikTok,Health & Wellness,United States,Urban,Student,30000.0,True,False,False,False,True
+52,male,6.340536532481459,WhatsApp,Health & Wellness,United States,Urban,Lawyer,110000.0,True,False,False,False,False
+24,non-binary,10.66492165497378,Twitter,Gaming,Australia,Sub_Urban,Marketer Manager,68000.0,False,False,False,True,True
+33,non-binary,7.860413217215829,Facebook,Culinary Exploration,United Kingdom,Sub_Urban,Doctor,120000.0,True,False,False,False,True
+43,female,7.196346589890894,Facebook,Culinary Exploration,Australia,Sub_Urban,Artist,40000.0,True,False,False,False,True
+19,non-binary,8.91047700024757,Twitter,E-Sports,United Kingdom,Urban,Software Engineer,72000.0,False,True,True,True,True
+18,male,10.740433764955238,Twitter,E-Sports,United Kingdom,Urban,Doctor,96000.0,False,True,True,True,True
+29,male,9.792033992078787,WhatsApp,Gaming,United Kingdom,Rural,Scientist,80000.0,True,False,True,True,True
+22,male,9.021620547690468,WhatsApp,Gaming,United Kingdom,Rural,Student,24000.0,True,True,True,True,True
+54,non-binary,7.267912454257142,LinkedIn,Health & Wellness,United States,Sub_Urban,Doctor,120000.0,True,False,True,False,False
+49,non-binary,8.766343334438742,YouTube,Culinary Exploration,United Kingdom,Rural,Doctor,120000.0,True,True,False,True,True
+26,non-binary,12.155060132128318,Facebook,E-Sports,United Kingdom,Urban,Marketer Manager,68000.0,False,True,True,True,True
+58,non-binary,6.353443837142639,Facebook,Book Clubs,Australia,Rural,Lawyer,110000.0,True,True,False,False,False
+52,non-binary,6.26454428832364,WhatsApp,Health & Wellness,Australia,Urban,Marketer Manager,85000.0,True,True,True,False,False
+36,male,7.421545923191133,Twitter,Home Improvement,United States,Sub_Urban,Lawyer,110000.0,False,True,False,True,True
+33,female,7.919897633223515,Snapchat,Culinary Exploration,Australia,Sub_Urban,Artist,40000.0,True,True,False,False,True
+20,male,11.219511934520538,Facebook,Gaming,United Kingdom,Urban,Artist,32000.0,True,True,False,True,True
+37,non-binary,10.058274593176392,Facebook,Culinary Exploration,Australia,Rural,Lawyer,110000.0,True,True,True,False,True
+41,male,8.627714222977074,Facebook,Home Improvement,United States,Sub_Urban,Engineer,95000.0,False,True,True,False,True
+50,non-binary,6.212738365503083,WhatsApp,Book Clubs,Australia,Sub_Urban,Engineer,95000.0,False,True,True,False,True
+41,non-binary,7.900706950906199,YouTube,Home Improvement,Australia,Rural,Marketer Manager,85000.0,True,True,True,True,True
+28,male,9.291677169656232,YouTube,Gaming,United States,Rural,Engineer,76000.0,True,True,False,True,True
+25,non-binary,9.227993857477655,LinkedIn,Gaming,United States,Urban,Student,24000.0,False,True,False,True,True
+53,female,7.151540150953091,WhatsApp,Book Clubs,United Kingdom,Rural,Student,30000.0,True,False,False,False,False
+55,non-binary,9.796552329570407,YouTube,Book Clubs,Australia,Rural,Chef,50000.0,True,True,False,False,True
+57,female,7.689575042859142,Pinterest,Health & Wellness,United Kingdom,Rural,Chef,50000.0,False,True,True,False,True
+37,female,8.018415527473723,WhatsApp,Home Improvement,Australia,Urban,Chef,50000.0,False,True,False,True,True
+52,non-binary,6.251421586176454,Facebook,Book Clubs,Australia,Urban,Artist,40000.0,False,True,True,False,True
+42,male,8.46033636203189,Facebook,Culinary Exploration,United Kingdom,Sub_Urban,Marketer Manager,85000.0,True,True,False,False,True
+52,female,6.67957746122156,TikTok,Book Clubs,Australia,Urban,Artist,40000.0,True,True,False,False,True
+42,male,6.447051533759122,Facebook,Home Improvement,Australia,Sub_Urban,Student,30000.0,True,False,False,False,True
+46,female,7.265864625856797,Pinterest,Culinary Exploration,Australia,Rural,Doctor,120000.0,True,False,True,False,True
+35,non-binary,9.756562482740147,YouTube,Home Improvement,United States,Sub_Urban,Student,30000.0,False,False,True,True,True
+63,non-binary,6.321012014150267,Facebook,Book Clubs,United Kingdom,Sub_Urban,Chef,50000.0,True,True,False,False,False
+35,female,7.664128655697569,TikTok,Home Improvement,United States,Rural,Student,30000.0,True,True,False,False,True
+19,non-binary,10.764989432243036,YouTube,E-Sports,United Kingdom,Sub_Urban,Doctor,96000.0,False,True,False,True,True
+52,female,7.395390530896133,Snapchat,Book Clubs,United Kingdom,Urban,Lawyer,110000.0,False,False,True,False,False
+33,non-binary,8.489995264550373,LinkedIn,Home Improvement,Australia,Urban,Doctor,120000.0,True,True,True,False,True
+58,male,6.828362545040887,Facebook,Book Clubs,United Kingdom,Urban,Scientist,100000.0,False,True,True,False,False
+53,non-binary,5.933267575295104,LinkedIn,Health & Wellness,United States,Urban,Engineer,95000.0,False,False,False,False,False
+50,male,6.6736677578318035,Facebook,Book Clubs,United States,Sub_Urban,Student,30000.0,True,False,True,False,False
+21,non-binary,10.306313354398998,YouTube,E-Sports,United States,Sub_Urban,Artist,32000.0,True,True,False,True,True
+50,male,6.105129572706268,Facebook,Book Clubs,United Kingdom,Rural,Scientist,100000.0,True,True,True,False,False
+31,non-binary,8.593190725721062,Facebook,Culinary Exploration,United States,Sub_Urban,Teacher,60000.0,True,True,False,False,True
+38,male,6.994856492790459,Twitter,Culinary Exploration,United Kingdom,Sub_Urban,Teacher,60000.0,False,True,False,False,True
+37,female,9.785998607930637,Instagram,Home Improvement,United States,Sub_Urban,Artist,40000.0,False,False,True,False,True
+25,female,10.690783065146922,TikTok,Gaming,United States,Rural,Chef,40000.0,True,True,False,True,True
+24,male,10.391698865255846,WhatsApp,E-Sports,United Kingdom,Urban,Marketer Manager,68000.0,True,True,False,True,True
+20,non-binary,11.148855970445172,Facebook,E-Sports,United States,Sub_Urban,Teacher,48000.0,False,False,False,True,True
+34,male,7.772487386175076,Twitter,Home Improvement,Australia,Rural,Engineer,95000.0,True,True,True,False,True
+50,non-binary,6.853087220222827,YouTube,Health & Wellness,United Kingdom,Rural,Engineer,95000.0,True,True,False,False,False
+29,female,10.418181574050223,Instagram,E-Sports,United Kingdom,Rural,Student,24000.0,True,False,True,True,True
+39,non-binary,8.139011403635557,WhatsApp,Home Improvement,United Kingdom,Urban,Marketer Manager,85000.0,True,False,True,True,True
+39,female,8.058627015692618,WhatsApp,Home Improvement,Australia,Sub_Urban,Scientist,100000.0,False,True,False,True,True
+63,non-binary,5.037600322608031,Facebook,Book Clubs,United Kingdom,Rural,Student,30000.0,True,False,True,False,False
+47,non-binary,6.397519083723986,YouTube,Culinary Exploration,United States,Urban,Student,30000.0,False,False,False,False,True
+55,non-binary,6.954019804014127,Twitter,Book Clubs,United States,Rural,Software Engineer,90000.0,True,True,True,False,False
+55,male,7.668023160388467,Twitter,Book Clubs,United States,Rural,Artist,40000.0,True,False,False,False,True
+62,male,6.918178189688688,YouTube,Book Clubs,United Kingdom,Rural,Software Engineer,90000.0,False,True,True,False,False
+25,female,10.593035713683038,Snapchat,Gaming,United States,Rural,Software Engineer,72000.0,True,True,False,True,True
+44,female,5.973683098241457,Snapchat,Culinary Exploration,United Kingdom,Rural,Software Engineer,90000.0,False,True,False,True,True
+44,male,8.994203123427619,LinkedIn,Culinary Exploration,United States,Urban,Teacher,60000.0,True,True,False,True,True
+51,female,6.630694219047895,TikTok,Book Clubs,Australia,Sub_Urban,Doctor,120000.0,True,False,False,False,True
+38,male,8.220699569587312,Facebook,Culinary Exploration,Australia,Sub_Urban,Software Engineer,90000.0,True,True,True,False,True
+47,non-binary,8.444263231770702,LinkedIn,Home Improvement,Australia,Sub_Urban,Artist,40000.0,True,True,True,True,True
+50,female,8.01067570222993,Facebook,Health & Wellness,Australia,Sub_Urban,Scientist,100000.0,True,True,False,False,True
+45,female,6.661707484637424,Snapchat,Culinary Exploration,United Kingdom,Urban,Doctor,120000.0,False,True,True,True,True
+64,male,7.261765702348743,Facebook,Health & Wellness,United States,Urban,Artist,40000.0,False,False,False,False,False
+50,female,8.677466290953047,Facebook,Book Clubs,Australia,Urban,Chef,50000.0,True,False,False,False,False
+22,female,9.463476342786707,Facebook,Gaming,United Kingdom,Rural,Student,24000.0,True,False,True,True,True
+36,non-binary,10.19816102262988,Facebook,Home Improvement,Australia,Rural,Lawyer,110000.0,False,True,True,True,True
+21,female,9.961915710478603,Snapchat,E-Sports,Australia,Rural,Chef,40000.0,False,False,False,True,True
+52,non-binary,7.365847022220297,Facebook,Health & Wellness,United Kingdom,Sub_Urban,Software Engineer,90000.0,True,False,True,False,False
+34,male,9.99817283544394,LinkedIn,Home Improvement,United Kingdom,Rural,Marketer Manager,85000.0,True,True,False,False,True
+61,female,7.789955980634097,Instagram,Book Clubs,United States,Sub_Urban,Chef,50000.0,False,False,True,False,False
+45,non-binary,7.31405707783676,Twitter,Culinary Exploration,United States,Rural,Student,30000.0,True,True,True,False,True
+47,male,8.602860674889252,LinkedIn,Home Improvement,Australia,Sub_Urban,Chef,50000.0,False,False,True,False,True
+46,female,7.482035302965365,Snapchat,Culinary Exploration,Australia,Rural,Teacher,60000.0,True,False,True,True,True
+63,male,5.194903459067833,Facebook,Book Clubs,United States,Rural,Scientist,100000.0,False,False,True,False,False
+23,female,11.35248365042808,Facebook,E-Sports,United States,Urban,Chef,40000.0,False,False,False,True,True
+52,male,7.3972301855686755,YouTube,Book Clubs,United Kingdom,Rural,Marketer Manager,85000.0,True,True,True,False,False
+58,male,7.612315299766239,Twitter,Book Clubs,United States,Rural,Scientist,100000.0,False,True,True,False,True
+54,non-binary,7.175177321513445,Twitter,Health & Wellness,United States,Urban,Lawyer,110000.0,True,False,False,False,False
+41,male,6.5096423803915755,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Teacher,60000.0,True,True,False,True,True
+46,female,8.84562439364637,Pinterest,Culinary Exploration,United States,Urban,Lawyer,110000.0,True,False,False,True,True
+63,female,5.368503244265199,WhatsApp,Health & Wellness,Australia,Urban,Scientist,100000.0,True,False,True,False,False
+48,non-binary,6.203393061856153,YouTube,Home Improvement,United States,Sub_Urban,Scientist,100000.0,False,False,True,True,True
+52,female,6.001415072473984,TikTok,Health & Wellness,United Kingdom,Rural,Lawyer,110000.0,True,False,False,False,False
+50,female,8.075472383048437,Facebook,Book Clubs,United States,Sub_Urban,Doctor,120000.0,True,False,False,False,False
+38,female,8.942904040692747,Pinterest,Home Improvement,United States,Rural,Marketer Manager,85000.0,True,False,False,True,True
+49,male,5.981052323716467,Twitter,Culinary Exploration,United States,Rural,Chef,50000.0,True,True,False,False,True
+40,male,7.559502031821631,LinkedIn,Home Improvement,Australia,Sub_Urban,Scientist,100000.0,False,True,True,True,True
+50,female,6.785417827998327,Snapchat,Health & Wellness,United Kingdom,Urban,Engineer,95000.0,True,False,True,False,False
+20,non-binary,9.673739125095409,WhatsApp,E-Sports,United States,Sub_Urban,Doctor,96000.0,False,True,True,True,True
+35,male,7.580796091006914,Facebook,Home Improvement,Australia,Rural,Student,30000.0,False,False,True,True,True
+42,non-binary,5.677054755810709,YouTube,Home Improvement,United Kingdom,Sub_Urban,Marketer Manager,85000.0,False,True,True,False,True
+59,female,6.995835024216135,Pinterest,Health & Wellness,Australia,Sub_Urban,Lawyer,110000.0,True,True,False,False,False
+48,female,7.900549965470248,Snapchat,Home Improvement,Australia,Rural,Chef,50000.0,True,True,True,True,True
+20,male,10.22222217620701,Facebook,Gaming,United Kingdom,Urban,Doctor,96000.0,True,False,False,True,True
+57,female,3.897066926385799,WhatsApp,Book Clubs,United States,Sub_Urban,Marketer Manager,85000.0,True,True,False,False,False
+63,male,4.443001309665003,Twitter,Health & Wellness,Australia,Rural,Chef,50000.0,False,False,False,False,False
+41,female,8.453524899873726,Pinterest,Home Improvement,Australia,Rural,Teacher,60000.0,False,False,True,False,True
+49,female,8.085050214333345,Snapchat,Culinary Exploration,United States,Sub_Urban,Student,30000.0,True,False,False,False,True
+64,male,6.006588644038702,Twitter,Health & Wellness,United States,Urban,Marketer Manager,85000.0,True,True,True,False,False
+39,male,8.157620864608393,Facebook,Culinary Exploration,United Kingdom,Sub_Urban,Teacher,60000.0,True,True,False,False,True
+40,male,9.20988716131629,YouTube,Culinary Exploration,United Kingdom,Urban,Marketer Manager,85000.0,True,True,True,False,True
+19,female,10.130705915344524,Pinterest,E-Sports,United Kingdom,Urban,Chef,40000.0,True,False,False,True,True
+44,female,9.869912264250758,Facebook,Home Improvement,United States,Urban,Marketer Manager,85000.0,True,False,True,False,True
+59,non-binary,5.730871363149891,Twitter,Health & Wellness,Australia,Urban,Doctor,120000.0,True,True,False,False,True
+19,male,9.127345843282956,Twitter,E-Sports,Australia,Sub_Urban,Teacher,48000.0,False,False,False,True,True
+43,female,6.59731395553539,Pinterest,Culinary Exploration,United Kingdom,Rural,Engineer,95000.0,False,True,False,True,True
+34,female,8.29481180310775,Instagram,Culinary Exploration,United States,Rural,Lawyer,110000.0,False,True,False,True,True
+57,male,4.409974862150992,LinkedIn,Health & Wellness,Australia,Rural,Engineer,95000.0,False,True,True,False,False
+50,non-binary,7.539584831647856,WhatsApp,Book Clubs,United Kingdom,Rural,Chef,50000.0,True,True,True,False,False
+26,male,8.512329562860169,WhatsApp,E-Sports,Australia,Rural,Engineer,76000.0,True,False,True,True,True
+60,non-binary,6.6418159943282555,WhatsApp,Book Clubs,Australia,Rural,Chef,50000.0,True,True,False,False,True
+56,female,7.139892990895693,Pinterest,Health & Wellness,United States,Sub_Urban,Lawyer,110000.0,True,True,False,False,False
+46,non-binary,6.17056143077895,Twitter,Home Improvement,United States,Urban,Student,30000.0,True,True,False,True,True
+59,female,7.271930824212292,Instagram,Book Clubs,Australia,Rural,Scientist,100000.0,False,True,False,False,True
+43,male,7.9792812095340775,WhatsApp,Home Improvement,United Kingdom,Sub_Urban,Software Engineer,90000.0,True,True,False,False,True
+52,male,6.725782916281499,LinkedIn,Book Clubs,United States,Rural,Student,30000.0,False,True,False,False,False
+42,male,7.410763415504559,LinkedIn,Culinary Exploration,Australia,Rural,Student,30000.0,True,True,True,True,True
+41,non-binary,7.410311139816739,WhatsApp,Home Improvement,United States,Urban,Lawyer,110000.0,False,False,True,True,True
+30,female,9.137662064587431,WhatsApp,Culinary Exploration,United States,Urban,Student,24000.0,True,False,True,True,True
+24,male,8.708944849333893,Facebook,Gaming,United States,Urban,Doctor,96000.0,False,False,True,True,True
+53,male,4.5032799302966,WhatsApp,Book Clubs,Australia,Rural,Scientist,100000.0,True,False,True,False,False
+62,female,5.781321303664298,Instagram,Book Clubs,United Kingdom,Rural,Artist,40000.0,True,True,True,False,False
+37,male,7.698270483124295,Twitter,Culinary Exploration,United Kingdom,Rural,Software Engineer,90000.0,True,False,True,False,True
+18,female,9.70758697701135,Instagram,Gaming,United Kingdom,Urban,Doctor,96000.0,True,False,True,True,True
+25,female,10.059533373939228,Pinterest,E-Sports,United States,Sub_Urban,Lawyer,88000.0,False,False,False,True,True
+63,female,5.048750819878761,Instagram,Book Clubs,Australia,Rural,Lawyer,110000.0,True,True,False,False,False
+33,female,8.99597846965205,Snapchat,Home Improvement,United States,Rural,Software Engineer,90000.0,False,False,False,False,True
+31,female,9.33854115610226,Snapchat,Home Improvement,United Kingdom,Rural,Artist,40000.0,True,False,False,False,True
+29,non-binary,10.008423339364954,LinkedIn,Gaming,United Kingdom,Sub_Urban,Chef,40000.0,False,True,False,True,True
+40,male,9.38930577099452,WhatsApp,Culinary Exploration,Australia,Rural,Marketer Manager,85000.0,True,False,False,True,True
+32,non-binary,7.509138815705358,LinkedIn,Culinary Exploration,United States,Sub_Urban,Marketer Manager,85000.0,True,True,False,True,True
+45,male,6.17002531651324,WhatsApp,Culinary Exploration,United Kingdom,Rural,Engineer,95000.0,False,False,True,False,True
+51,non-binary,8.316135109876022,WhatsApp,Health & Wellness,Australia,Sub_Urban,Teacher,60000.0,True,True,True,False,False
+19,female,8.737584369032856,WhatsApp,E-Sports,United States,Rural,Marketer Manager,68000.0,True,False,False,True,True
+49,male,7.718527483526104,YouTube,Culinary Exploration,United States,Urban,Lawyer,110000.0,False,False,True,True,True
+40,male,9.166108238858252,Twitter,Home Improvement,United Kingdom,Urban,Teacher,60000.0,True,False,True,True,True
+39,non-binary,8.563504056362286,YouTube,Home Improvement,United Kingdom,Urban,Doctor,120000.0,False,True,True,False,True
+42,non-binary,7.371993045724301,Twitter,Home Improvement,United States,Urban,Marketer Manager,85000.0,True,False,True,False,True
+39,male,8.1558045653334,Facebook,Home Improvement,United States,Rural,Teacher,60000.0,False,True,True,False,True
+39,non-binary,9.119564550680188,LinkedIn,Home Improvement,United Kingdom,Urban,Marketer Manager,85000.0,False,True,False,False,True
+59,non-binary,7.492564010242663,Twitter,Book Clubs,United States,Sub_Urban,Software Engineer,90000.0,False,True,True,False,True
+23,non-binary,7.919212162907527,WhatsApp,Gaming,United Kingdom,Urban,Scientist,80000.0,False,True,False,True,True
+32,female,8.438541662613781,TikTok,Culinary Exploration,United States,Urban,Marketer Manager,85000.0,True,False,False,False,True
+60,female,5.112986448605712,Instagram,Health & Wellness,United Kingdom,Urban,Software Engineer,90000.0,True,False,False,False,False
+54,non-binary,6.499098750601922,Twitter,Book Clubs,Australia,Rural,Engineer,95000.0,False,False,True,False,False
+50,non-binary,6.74097941113116,LinkedIn,Book Clubs,United Kingdom,Urban,Engineer,95000.0,True,True,False,False,False
+25,female,8.33456081259626,WhatsApp,Gaming,United Kingdom,Sub_Urban,Doctor,96000.0,True,False,False,True,True
+61,female,5.698220216864597,WhatsApp,Book Clubs,Australia,Urban,Student,30000.0,True,True,False,False,False
+61,male,5.390330499425657,WhatsApp,Book Clubs,United States,Urban,Scientist,100000.0,False,True,False,False,True
+22,male,6.655740961763231,WhatsApp,E-Sports,Australia,Urban,Student,24000.0,True,True,True,True,True
+56,female,6.740104102561487,WhatsApp,Health & Wellness,United Kingdom,Sub_Urban,Scientist,100000.0,True,False,False,False,False
+21,non-binary,9.592309798515403,YouTube,E-Sports,United States,Urban,Engineer,76000.0,False,False,False,True,True
+23,non-binary,9.879001222565334,LinkedIn,E-Sports,Australia,Sub_Urban,Student,24000.0,True,True,False,True,True
+62,non-binary,5.063022889894731,Facebook,Book Clubs,United States,Sub_Urban,Software Engineer,90000.0,False,False,False,False,False
+49,non-binary,7.108172139414068,Facebook,Culinary Exploration,United States,Urban,Engineer,95000.0,False,False,True,True,True
+47,male,7.308774795000952,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Scientist,100000.0,False,True,False,True,True
+64,female,4.194811219978413,Pinterest,Health & Wellness,United States,Rural,Marketer Manager,85000.0,True,True,False,False,True
+52,non-binary,5.470905645597254,Twitter,Book Clubs,Australia,Urban,Software Engineer,90000.0,True,False,False,False,False
+57,male,6.574929860120797,Twitter,Health & Wellness,United Kingdom,Urban,Chef,50000.0,False,True,False,False,False
+33,non-binary,7.934433243541071,YouTube,Culinary Exploration,United States,Sub_Urban,Software Engineer,90000.0,False,True,False,False,True
+30,female,9.457604452745414,Instagram,Home Improvement,United Kingdom,Sub_Urban,Lawyer,88000.0,False,False,False,True,True
+59,male,8.337302275761347,LinkedIn,Book Clubs,United Kingdom,Urban,Doctor,120000.0,False,False,True,False,False
+47,female,6.777655538980198,TikTok,Culinary Exploration,United States,Rural,Artist,40000.0,False,True,False,False,True
+36,female,10.098067845333917,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Engineer,95000.0,False,False,True,True,True
+34,male,7.290621738117574,Facebook,Home Improvement,United States,Sub_Urban,Chef,50000.0,True,True,True,True,True
+36,male,9.425599046002947,Twitter,Culinary Exploration,United Kingdom,Rural,Lawyer,110000.0,False,True,False,False,True
+45,male,8.84390104060465,WhatsApp,Culinary Exploration,United Kingdom,Rural,Chef,50000.0,False,False,True,False,True
+43,male,8.893473967832929,YouTube,Culinary Exploration,Australia,Urban,Chef,50000.0,False,True,False,True,True
+54,male,6.447458418008505,LinkedIn,Health & Wellness,United States,Rural,Chef,50000.0,True,True,True,False,False
+43,male,8.292014529716036,Twitter,Culinary Exploration,United Kingdom,Urban,Engineer,95000.0,True,True,False,True,True
+40,male,7.883576592907847,Twitter,Culinary Exploration,United Kingdom,Rural,Lawyer,110000.0,True,False,True,True,True
+26,non-binary,9.76141100404207,LinkedIn,E-Sports,United Kingdom,Sub_Urban,Artist,32000.0,True,False,True,True,True
+29,female,8.199490344431574,Snapchat,E-Sports,Australia,Urban,Marketer Manager,68000.0,False,False,False,True,True
+18,male,10.218909634688165,YouTube,Gaming,United Kingdom,Urban,Scientist,80000.0,True,True,True,True,True
+18,non-binary,11.156252853020131,LinkedIn,Gaming,United Kingdom,Urban,Artist,32000.0,False,True,True,True,True
+64,non-binary,8.056212517452282,WhatsApp,Health & Wellness,United States,Rural,Chef,50000.0,False,False,True,False,True
+51,non-binary,6.3717197785428885,Twitter,Health & Wellness,United States,Sub_Urban,Software Engineer,90000.0,False,False,True,False,False
+49,female,9.000430393340265,TikTok,Home Improvement,United Kingdom,Urban,Teacher,60000.0,False,False,True,True,True
+42,male,6.148233814937946,YouTube,Culinary Exploration,United Kingdom,Urban,Lawyer,110000.0,False,True,False,True,True
+57,non-binary,7.209141275603636,LinkedIn,Health & Wellness,United States,Urban,Marketer Manager,85000.0,False,False,True,False,True
+62,female,7.001469073011214,Instagram,Health & Wellness,Australia,Urban,Lawyer,110000.0,True,True,True,False,False
+18,female,9.113198279141912,WhatsApp,Gaming,Australia,Sub_Urban,Chef,40000.0,True,False,False,True,True
+33,female,9.19864408137267,WhatsApp,Culinary Exploration,Australia,Rural,Student,30000.0,True,True,False,True,True
+56,non-binary,7.789179121918473,LinkedIn,Book Clubs,Australia,Sub_Urban,Marketer Manager,85000.0,True,True,False,False,False
+22,male,9.811440178207135,Facebook,Gaming,Australia,Urban,Lawyer,88000.0,True,False,True,True,True
+39,non-binary,8.072489511086726,Facebook,Home Improvement,Australia,Sub_Urban,Scientist,100000.0,False,True,True,False,True
+46,non-binary,7.706540633097812,YouTube,Culinary Exploration,Australia,Urban,Chef,50000.0,True,False,True,True,True
+20,male,10.051574441655882,Twitter,Gaming,Australia,Rural,Software Engineer,72000.0,True,True,True,True,True
+29,male,10.385522872548506,Facebook,Gaming,United States,Rural,Engineer,76000.0,True,True,False,True,True
+43,male,5.9874718047010695,LinkedIn,Culinary Exploration,Australia,Rural,Software Engineer,90000.0,False,False,False,True,True
+33,female,6.75893516986627,TikTok,Home Improvement,Australia,Urban,Doctor,120000.0,False,True,True,False,True
+54,male,8.308801292252138,Facebook,Health & Wellness,Australia,Sub_Urban,Chef,50000.0,False,False,True,False,False
+39,non-binary,8.273531711624441,Facebook,Culinary Exploration,United Kingdom,Rural,Marketer Manager,85000.0,True,False,True,False,True
+46,male,8.379241768872038,YouTube,Home Improvement,United States,Urban,Student,30000.0,True,False,True,False,True
+31,non-binary,9.382346952540903,LinkedIn,Culinary Exploration,United States,Urban,Marketer Manager,85000.0,True,True,False,True,True
+45,female,8.50764175600219,Pinterest,Home Improvement,United States,Sub_Urban,Doctor,120000.0,True,True,False,False,True
+22,non-binary,9.29500273525492,Facebook,Gaming,Australia,Rural,Lawyer,88000.0,True,True,True,True,True
+64,non-binary,3.222109023093301,LinkedIn,Book Clubs,Australia,Urban,Marketer Manager,85000.0,False,False,False,False,False
+47,male,8.282094946307177,YouTube,Home Improvement,United Kingdom,Sub_Urban,Artist,40000.0,True,False,True,False,True
+63,male,7.7604489148199765,WhatsApp,Book Clubs,United States,Rural,Lawyer,110000.0,False,True,True,False,False
+22,non-binary,8.774884116573434,Twitter,Gaming,Australia,Sub_Urban,Doctor,96000.0,True,True,False,True,True
+29,male,9.052366198598156,LinkedIn,Gaming,United States,Sub_Urban,Scientist,80000.0,False,False,True,True,True
+33,female,7.515927938484466,TikTok,Culinary Exploration,United Kingdom,Urban,Scientist,100000.0,False,True,False,False,True
+43,female,7.811566222382509,WhatsApp,Home Improvement,United Kingdom,Urban,Student,30000.0,False,False,True,False,True
+43,male,7.813707116662507,Twitter,Home Improvement,United Kingdom,Urban,Chef,50000.0,False,True,False,False,True
+38,female,8.265864353101563,TikTok,Culinary Exploration,United States,Sub_Urban,Teacher,60000.0,True,False,True,True,True
+56,male,8.36637411132875,YouTube,Health & Wellness,Australia,Urban,Chef,50000.0,True,True,False,False,False
+53,non-binary,5.8812444409448705,YouTube,Health & Wellness,Australia,Sub_Urban,Software Engineer,90000.0,True,True,True,False,False
+50,non-binary,7.933391910701685,LinkedIn,Health & Wellness,United Kingdom,Sub_Urban,Doctor,120000.0,False,False,True,False,True
+47,female,7.0971155543413875,Facebook,Home Improvement,Australia,Urban,Artist,40000.0,True,False,False,True,True
+54,male,5.987614870514282,YouTube,Book Clubs,United Kingdom,Rural,Artist,40000.0,True,False,True,False,False
+40,male,6.969343508483247,LinkedIn,Home Improvement,United States,Rural,Engineer,95000.0,True,True,False,False,True
+27,female,9.397856304091283,Facebook,Gaming,United Kingdom,Rural,Software Engineer,72000.0,True,False,False,True,True
+22,non-binary,9.011694288068927,WhatsApp,E-Sports,United States,Sub_Urban,Student,24000.0,False,False,True,True,True
+53,female,5.122672215994827,Facebook,Book Clubs,United Kingdom,Sub_Urban,Software Engineer,90000.0,False,True,True,False,True
+51,non-binary,7.837195332745632,WhatsApp,Health & Wellness,Australia,Sub_Urban,Student,30000.0,True,False,True,False,False
+48,male,8.55424865221729,LinkedIn,Culinary Exploration,Australia,Urban,Lawyer,110000.0,True,False,True,True,True
+27,non-binary,8.173716426771131,Facebook,Gaming,United Kingdom,Sub_Urban,Teacher,48000.0,True,False,False,True,True
+36,female,8.07358862695269,Snapchat,Home Improvement,Australia,Urban,Engineer,95000.0,False,True,True,False,True
+49,male,7.794659936566032,LinkedIn,Home Improvement,Australia,Urban,Chef,50000.0,False,True,True,False,True
+18,female,9.135350425908854,TikTok,Gaming,Australia,Rural,Engineer,76000.0,False,True,True,True,True
+22,female,9.191019191105536,Snapchat,Gaming,United States,Rural,Doctor,96000.0,True,False,False,True,True
+62,non-binary,4.932173917457073,Facebook,Book Clubs,Australia,Rural,Lawyer,110000.0,False,True,True,False,False
+21,female,9.677824680082905,WhatsApp,E-Sports,United States,Urban,Software Engineer,72000.0,False,False,False,True,True
+33,non-binary,8.661168310527717,LinkedIn,Culinary Exploration,United Kingdom,Urban,Artist,40000.0,False,False,True,True,True
+41,male,7.932436057452169,WhatsApp,Home Improvement,Australia,Urban,Software Engineer,90000.0,False,False,False,True,True
+33,non-binary,10.111185614275042,Twitter,Home Improvement,Australia,Sub_Urban,Engineer,95000.0,False,True,True,True,True
+19,male,8.483324429758452,YouTube,Gaming,Australia,Urban,Scientist,80000.0,True,True,True,True,True
+45,non-binary,8.062057601766938,Twitter,Culinary Exploration,United Kingdom,Rural,Artist,40000.0,True,False,False,False,True
+49,female,8.908446197288816,TikTok,Home Improvement,United States,Rural,Engineer,95000.0,True,False,True,True,True
+44,non-binary,6.4386255038225055,WhatsApp,Culinary Exploration,United States,Urban,Scientist,100000.0,True,True,True,True,True
+37,non-binary,7.622225937408563,WhatsApp,Home Improvement,Australia,Urban,Software Engineer,90000.0,False,True,True,True,True
+41,male,8.315428481130056,WhatsApp,Culinary Exploration,United Kingdom,Rural,Marketer Manager,85000.0,True,True,False,True,True
+29,female,9.77196575907807,Snapchat,E-Sports,United Kingdom,Urban,Scientist,80000.0,True,False,True,True,True
+52,non-binary,5.616410876206617,WhatsApp,Health & Wellness,United Kingdom,Rural,Scientist,100000.0,True,True,False,False,False
+50,female,6.980673875760888,TikTok,Health & Wellness,United Kingdom,Sub_Urban,Artist,40000.0,False,True,False,False,True
+50,non-binary,6.610528901239863,YouTube,Health & Wellness,United Kingdom,Rural,Scientist,100000.0,True,True,False,False,False
+60,non-binary,6.430581751546991,YouTube,Book Clubs,United States,Sub_Urban,Artist,40000.0,False,False,True,False,False
+54,female,4.843715621750056,Instagram,Book Clubs,United States,Urban,Artist,40000.0,False,True,False,False,False
+29,non-binary,10.507224779610983,YouTube,E-Sports,United States,Urban,Marketer Manager,68000.0,False,False,False,True,True
+20,female,9.240992255459737,Pinterest,Gaming,Australia,Sub_Urban,Student,24000.0,True,False,True,True,True
+18,non-binary,10.538839516619628,YouTube,E-Sports,United Kingdom,Urban,Engineer,76000.0,False,False,False,True,True
+50,male,8.436214458907624,Facebook,Book Clubs,Australia,Sub_Urban,Chef,50000.0,True,True,False,False,False
+57,female,7.449623036695217,Facebook,Health & Wellness,United Kingdom,Urban,Lawyer,110000.0,True,True,True,False,False
+27,non-binary,8.880327523721796,YouTube,E-Sports,United States,Rural,Teacher,48000.0,True,True,True,True,True
+60,non-binary,6.309070821376693,WhatsApp,Book Clubs,Australia,Urban,Chef,50000.0,False,False,False,False,True
+61,male,6.476536530873453,YouTube,Health & Wellness,United States,Rural,Software Engineer,90000.0,False,True,True,False,False
+46,female,6.633721657563244,Pinterest,Culinary Exploration,United Kingdom,Rural,Chef,50000.0,True,False,True,False,True
+30,non-binary,7.815133579069304,Facebook,Culinary Exploration,United Kingdom,Sub_Urban,Software Engineer,72000.0,False,True,True,False,True
+29,male,8.17883300468869,Facebook,E-Sports,United Kingdom,Urban,Chef,40000.0,False,True,False,True,True
+48,non-binary,7.849022770511457,WhatsApp,Home Improvement,United States,Sub_Urban,Software Engineer,90000.0,False,True,False,False,True
+63,female,6.482192317535738,WhatsApp,Book Clubs,United Kingdom,Urban,Scientist,100000.0,True,True,True,False,False
+19,non-binary,9.667258354029602,LinkedIn,Gaming,United States,Rural,Chef,40000.0,False,False,False,True,True
+52,non-binary,7.362145800579914,YouTube,Health & Wellness,Australia,Rural,Chef,50000.0,False,False,True,False,True
+40,non-binary,8.027008689310787,Twitter,Home Improvement,United Kingdom,Urban,Artist,40000.0,True,False,True,True,True
+34,non-binary,8.656947834714426,YouTube,Home Improvement,United Kingdom,Urban,Software Engineer,90000.0,False,False,True,True,True
+43,male,8.896055010509624,Twitter,Home Improvement,United Kingdom,Sub_Urban,Engineer,95000.0,True,True,True,True,True
+25,male,9.94465039532017,LinkedIn,E-Sports,Australia,Urban,Lawyer,88000.0,False,False,True,True,True
+46,female,8.325281457782083,Instagram,Home Improvement,United Kingdom,Urban,Chef,50000.0,False,False,False,False,True
+43,male,7.108166100591012,Twitter,Home Improvement,United States,Urban,Student,30000.0,False,False,False,False,True
+27,male,9.927537463486342,YouTube,Gaming,United States,Sub_Urban,Marketer Manager,68000.0,False,True,False,True,True
+43,female,7.315849263147435,Instagram,Home Improvement,United Kingdom,Urban,Chef,50000.0,False,False,False,True,True
+51,male,7.454219927645917,Facebook,Health & Wellness,United Kingdom,Rural,Student,30000.0,False,False,True,False,False
+58,male,5.746614310285074,WhatsApp,Health & Wellness,Australia,Sub_Urban,Engineer,95000.0,True,True,True,False,False
+24,female,10.996644800554419,Snapchat,E-Sports,Australia,Sub_Urban,Software Engineer,72000.0,False,True,False,True,True
+21,female,8.277009549823987,TikTok,Gaming,Australia,Rural,Teacher,48000.0,False,False,False,True,True
+62,female,5.674245522859715,WhatsApp,Book Clubs,United Kingdom,Rural,Marketer Manager,85000.0,False,False,True,False,False
+28,non-binary,9.781310854216708,Facebook,E-Sports,Australia,Rural,Lawyer,88000.0,True,True,True,True,True
+46,non-binary,5.571743229569998,Facebook,Home Improvement,Australia,Urban,Doctor,120000.0,True,False,True,True,True
+53,female,7.248229052742038,Facebook,Health & Wellness,United States,Rural,Artist,40000.0,True,True,False,False,False
+42,female,6.903597990589782,Snapchat,Home Improvement,Australia,Urban,Student,30000.0,False,False,True,False,True
+38,female,8.824956888895167,Pinterest,Home Improvement,United States,Sub_Urban,Artist,40000.0,False,False,True,True,True
+53,non-binary,6.769096144606125,WhatsApp,Book Clubs,United States,Sub_Urban,Doctor,120000.0,True,False,False,False,False
+27,non-binary,6.942258441743993,YouTube,E-Sports,Australia,Rural,Doctor,96000.0,True,False,False,True,True
+54,male,7.20588719492779,LinkedIn,Book Clubs,United States,Urban,Student,30000.0,True,False,False,False,False
+26,male,10.515052734638543,WhatsApp,E-Sports,United Kingdom,Rural,Engineer,76000.0,False,True,True,True,True
+41,female,6.644404910181185,WhatsApp,Culinary Exploration,United Kingdom,Rural,Student,30000.0,True,True,True,True,True
+52,non-binary,7.879971199057131,Facebook,Health & Wellness,Australia,Urban,Teacher,60000.0,False,False,False,False,True
+52,non-binary,7.028785645029467,LinkedIn,Book Clubs,United Kingdom,Rural,Marketer Manager,85000.0,False,False,True,False,False
+53,non-binary,8.6737848447142,Facebook,Health & Wellness,United States,Sub_Urban,Marketer Manager,85000.0,False,False,True,False,False
+35,female,7.64019112316813,Instagram,Culinary Exploration,United Kingdom,Rural,Doctor,120000.0,True,True,True,False,True
+56,male,6.21114499953379,LinkedIn,Health & Wellness,Australia,Urban,Artist,40000.0,False,True,False,False,True
+49,female,5.971977483219154,Instagram,Culinary Exploration,Australia,Urban,Software Engineer,90000.0,True,True,False,False,True
+41,male,6.895985100895194,YouTube,Culinary Exploration,United States,Sub_Urban,Chef,50000.0,True,True,True,True,True
+40,male,7.799863344645592,Facebook,Home Improvement,Australia,Urban,Artist,40000.0,True,True,True,False,True
+49,female,7.364024269401146,WhatsApp,Home Improvement,United Kingdom,Urban,Chef,50000.0,True,True,True,False,True
+54,male,6.497967015265037,Facebook,Health & Wellness,Australia,Sub_Urban,Student,30000.0,False,True,True,False,True
+29,male,9.348039917550533,LinkedIn,E-Sports,United States,Rural,Teacher,48000.0,False,True,False,True,True
+30,non-binary,8.040789941877298,Twitter,Culinary Exploration,Australia,Sub_Urban,Lawyer,88000.0,False,False,False,True,True
+40,male,8.198122731025682,WhatsApp,Culinary Exploration,United Kingdom,Rural,Scientist,100000.0,False,True,True,True,True
+42,female,7.291457861502645,Snapchat,Home Improvement,United States,Sub_Urban,Marketer Manager,85000.0,True,True,True,True,True
+52,female,7.445272583486026,TikTok,Health & Wellness,United Kingdom,Rural,Marketer Manager,85000.0,True,True,False,False,True
+58,male,4.699386039822279,WhatsApp,Book Clubs,United States,Sub_Urban,Chef,50000.0,True,True,True,False,False
+47,non-binary,6.911237913740631,YouTube,Culinary Exploration,Australia,Rural,Doctor,120000.0,True,False,False,True,True
+34,non-binary,9.232942134240304,Facebook,Culinary Exploration,United States,Sub_Urban,Engineer,95000.0,False,True,True,False,True
+37,male,8.035874596328036,YouTube,Home Improvement,United States,Rural,Lawyer,110000.0,True,False,False,False,True
+42,male,7.526207494134374,WhatsApp,Home Improvement,Australia,Sub_Urban,Lawyer,110000.0,False,False,True,False,True
+39,female,8.976264191388605,Snapchat,Home Improvement,United Kingdom,Urban,Software Engineer,90000.0,True,False,True,False,True
+30,male,8.878100759842779,LinkedIn,Culinary Exploration,Australia,Rural,Software Engineer,72000.0,True,True,False,True,True
+36,non-binary,8.027705292472069,LinkedIn,Culinary Exploration,United States,Sub_Urban,Engineer,95000.0,True,True,False,False,True
+53,male,7.056297244161704,WhatsApp,Health & Wellness,Australia,Rural,Scientist,100000.0,True,True,True,False,False
+29,female,7.717642727395231,Snapchat,Gaming,United States,Rural,Software Engineer,72000.0,False,False,True,True,True
+58,female,6.611620579493575,Facebook,Health & Wellness,Australia,Sub_Urban,Chef,50000.0,False,False,False,False,False
+36,female,9.166038005645381,Instagram,Culinary Exploration,Australia,Rural,Scientist,100000.0,False,False,False,True,True
+29,female,9.744877411407192,Facebook,E-Sports,United Kingdom,Sub_Urban,Software Engineer,72000.0,False,False,True,True,True
+26,female,9.124357361443689,Facebook,Gaming,United States,Urban,Student,24000.0,True,True,True,True,True
+24,male,9.224391610204709,YouTube,Gaming,United Kingdom,Rural,Student,24000.0,True,True,False,True,True
+45,male,6.912120114987106,YouTube,Home Improvement,United States,Urban,Doctor,120000.0,False,True,False,False,True
+31,male,9.118754607258694,LinkedIn,Culinary Exploration,Australia,Rural,Teacher,60000.0,False,False,False,False,True
+48,male,7.036330321828253,WhatsApp,Home Improvement,United States,Rural,Lawyer,110000.0,True,False,False,True,True
+36,female,9.719916663647135,WhatsApp,Culinary Exploration,United Kingdom,Rural,Marketer Manager,85000.0,True,True,False,False,True
+64,non-binary,5.039103745866965,Twitter,Health & Wellness,United Kingdom,Sub_Urban,Marketer Manager,85000.0,False,True,True,False,False
+33,male,7.8183412697180295,Facebook,Home Improvement,United Kingdom,Urban,Student,30000.0,False,False,True,False,True
+22,non-binary,11.118682564279382,WhatsApp,E-Sports,United States,Rural,Chef,40000.0,False,True,False,True,True
+52,male,8.218462511229733,Facebook,Book Clubs,United Kingdom,Sub_Urban,Chef,50000.0,True,True,True,False,False
+29,male,7.087421966463011,YouTube,E-Sports,United Kingdom,Rural,Teacher,48000.0,False,False,True,True,True
+42,non-binary,8.931069216648805,WhatsApp,Home Improvement,United Kingdom,Sub_Urban,Student,30000.0,False,False,False,False,True
+38,female,9.37839081836345,Snapchat,Home Improvement,Australia,Rural,Artist,40000.0,False,False,True,False,True
+53,male,5.328735130195705,WhatsApp,Book Clubs,Australia,Urban,Software Engineer,90000.0,False,True,True,False,False
+40,male,9.62689133015137,Twitter,Culinary Exploration,United States,Urban,Artist,40000.0,False,False,True,True,True
+33,male,9.255658207520709,Facebook,Culinary Exploration,United States,Rural,Chef,50000.0,True,True,False,True,True
+56,non-binary,6.990715109626361,YouTube,Health & Wellness,United Kingdom,Sub_Urban,Teacher,60000.0,False,True,False,False,False
+62,female,6.994162901469496,WhatsApp,Book Clubs,Australia,Rural,Doctor,120000.0,True,False,True,False,True
+59,non-binary,6.791152631159179,Facebook,Book Clubs,United Kingdom,Sub_Urban,Engineer,95000.0,False,True,True,False,False
+56,non-binary,5.71511944113939,LinkedIn,Health & Wellness,United Kingdom,Rural,Chef,50000.0,False,False,True,False,False
+31,female,10.446155954460357,Snapchat,Home Improvement,Australia,Sub_Urban,Doctor,120000.0,False,False,True,True,True
+48,non-binary,6.876371162929846,WhatsApp,Home Improvement,Australia,Urban,Scientist,100000.0,True,True,True,True,True
+22,female,9.08417972867587,WhatsApp,E-Sports,Australia,Rural,Scientist,80000.0,True,True,True,True,True
+52,male,6.665910581962607,WhatsApp,Book Clubs,United States,Urban,Doctor,120000.0,True,False,False,False,True
+40,female,7.521864787295623,Instagram,Culinary Exploration,United States,Urban,Doctor,120000.0,False,False,True,False,True
+46,male,7.142989673829704,LinkedIn,Culinary Exploration,United Kingdom,Rural,Artist,40000.0,False,False,True,True,True
+60,non-binary,6.476123155445932,Twitter,Health & Wellness,United States,Rural,Teacher,60000.0,True,False,False,False,False
+28,non-binary,9.604625223018797,Facebook,Gaming,Australia,Sub_Urban,Doctor,96000.0,True,False,True,True,True
+35,male,9.151880864996398,YouTube,Home Improvement,Australia,Sub_Urban,Artist,40000.0,False,False,True,False,True
+64,non-binary,4.6679979265752,YouTube,Health & Wellness,United States,Urban,Lawyer,110000.0,True,True,True,False,True
+29,female,7.593911929536825,Facebook,E-Sports,United Kingdom,Sub_Urban,Doctor,96000.0,False,True,True,True,True
+26,male,8.07501621921598,YouTube,E-Sports,United Kingdom,Sub_Urban,Marketer Manager,68000.0,True,True,False,True,True
+27,non-binary,9.382973258894589,Facebook,Gaming,United States,Rural,Chef,40000.0,True,True,True,True,True
+61,male,6.300227642852467,WhatsApp,Book Clubs,United Kingdom,Sub_Urban,Marketer Manager,85000.0,True,False,False,False,True
+34,female,8.136806186138706,Instagram,Culinary Exploration,United Kingdom,Urban,Engineer,95000.0,False,True,True,False,True
+55,female,5.749010722424166,TikTok,Book Clubs,United Kingdom,Sub_Urban,Marketer Manager,85000.0,False,True,True,False,False
+24,non-binary,9.392335767638707,WhatsApp,E-Sports,Australia,Urban,Lawyer,88000.0,True,False,False,True,True
+63,female,5.407259366972784,Pinterest,Health & Wellness,Australia,Rural,Artist,40000.0,False,True,True,False,False
+30,male,7.852485150380664,Twitter,Home Improvement,United States,Urban,Software Engineer,72000.0,False,False,False,True,True
+57,female,7.309977272479974,TikTok,Book Clubs,Australia,Sub_Urban,Artist,40000.0,False,False,False,False,False
+59,male,6.4845058137588,Facebook,Book Clubs,United Kingdom,Rural,Scientist,100000.0,False,False,False,False,False
+26,male,9.600668989049979,Twitter,E-Sports,Australia,Sub_Urban,Student,24000.0,True,False,True,True,True
+44,female,5.4679546569508695,WhatsApp,Culinary Exploration,United States,Rural,Artist,40000.0,False,False,True,True,True
+19,non-binary,8.48455158476729,Twitter,E-Sports,Australia,Rural,Chef,40000.0,False,True,True,True,True
+22,female,10.817211688816238,TikTok,E-Sports,United Kingdom,Sub_Urban,Student,24000.0,True,True,True,True,True
+46,male,7.395660859360579,WhatsApp,Culinary Exploration,United Kingdom,Sub_Urban,Scientist,100000.0,False,True,False,False,True
+54,male,7.628012801376718,YouTube,Book Clubs,United States,Rural,Student,30000.0,False,False,True,False,False
+55,female,8.472727859683584,Snapchat,Health & Wellness,Australia,Rural,Teacher,60000.0,False,True,True,False,True
+36,non-binary,7.8514797621030645,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Engineer,95000.0,True,True,False,True,True
+25,non-binary,10.145579992074296,Facebook,E-Sports,Australia,Urban,Chef,40000.0,True,True,False,True,True
+62,male,4.808102953520929,Facebook,Health & Wellness,United Kingdom,Sub_Urban,Artist,40000.0,False,True,True,False,False
+18,male,9.531838111923541,WhatsApp,E-Sports,United States,Rural,Teacher,48000.0,False,False,False,True,True
+39,non-binary,9.754331048823921,LinkedIn,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,True,True,False,False,True
+34,female,8.545437765615466,Instagram,Home Improvement,United Kingdom,Urban,Engineer,95000.0,True,False,False,False,True
+24,male,8.170279906513883,Twitter,Gaming,United Kingdom,Sub_Urban,Artist,32000.0,True,False,False,True,True
+42,male,8.016580265394873,Facebook,Culinary Exploration,United Kingdom,Rural,Chef,50000.0,False,True,False,False,True
+62,non-binary,6.5894652649498875,LinkedIn,Book Clubs,Australia,Sub_Urban,Student,30000.0,False,False,True,False,False
+21,female,8.29626914930106,Instagram,E-Sports,Australia,Rural,Software Engineer,72000.0,True,False,True,True,True
+53,non-binary,6.622439028466152,Facebook,Book Clubs,Australia,Rural,Student,30000.0,False,False,True,False,False
+23,female,8.012896718195414,Pinterest,E-Sports,Australia,Sub_Urban,Software Engineer,72000.0,False,False,True,True,True
+48,female,6.0187720607062944,Pinterest,Home Improvement,Australia,Rural,Marketer Manager,85000.0,False,False,True,True,True
+36,female,7.8818379653788515,TikTok,Culinary Exploration,Australia,Rural,Engineer,95000.0,False,False,True,False,True
+61,male,7.622308168683755,Facebook,Health & Wellness,Australia,Urban,Marketer Manager,85000.0,False,False,True,False,False
+56,non-binary,6.800887963140463,YouTube,Book Clubs,Australia,Urban,Engineer,95000.0,False,True,False,False,True
+44,non-binary,8.019320869274942,WhatsApp,Home Improvement,Australia,Urban,Software Engineer,90000.0,False,True,True,True,True
+27,female,9.559413706997264,Snapchat,E-Sports,United Kingdom,Urban,Scientist,80000.0,True,False,True,True,True
+43,male,9.039340654741348,WhatsApp,Home Improvement,Australia,Rural,Student,30000.0,True,False,True,True,True
+36,male,8.329612720692575,Twitter,Culinary Exploration,United States,Sub_Urban,Doctor,120000.0,True,True,False,False,True
+56,non-binary,6.959150079988622,WhatsApp,Health & Wellness,United Kingdom,Rural,Marketer Manager,85000.0,True,True,True,False,False
+20,male,10.8075840912022,Facebook,Gaming,Australia,Rural,Teacher,48000.0,True,True,True,True,True
+62,male,5.212472690424063,Twitter,Health & Wellness,United States,Rural,Engineer,95000.0,True,True,False,False,True
+30,female,10.14110833653169,Pinterest,Home Improvement,Australia,Sub_Urban,Student,24000.0,True,False,True,False,True
+45,male,5.569591433279758,LinkedIn,Culinary Exploration,United States,Urban,Scientist,100000.0,True,False,True,False,True
+37,female,8.626157580018555,Instagram,Home Improvement,United States,Rural,Marketer Manager,85000.0,True,True,False,True,True
+45,non-binary,7.422975354537577,YouTube,Culinary Exploration,United States,Rural,Lawyer,110000.0,False,True,True,False,True
+25,male,10.24244278812116,Twitter,Gaming,United States,Urban,Chef,40000.0,False,True,False,True,True
+58,non-binary,4.79413627557749,Facebook,Book Clubs,United Kingdom,Rural,Marketer Manager,85000.0,True,True,True,False,False
+56,non-binary,4.984597557819763,Facebook,Book Clubs,United Kingdom,Sub_Urban,Marketer Manager,85000.0,False,False,True,False,True
+18,male,10.782981373566935,LinkedIn,Gaming,United States,Rural,Scientist,80000.0,False,True,True,True,True
+20,male,9.871885590552305,WhatsApp,Gaming,Australia,Rural,Marketer Manager,68000.0,True,True,False,True,True
+30,non-binary,9.540560128762632,Facebook,Culinary Exploration,United States,Urban,Marketer Manager,68000.0,True,True,False,True,True
+45,male,9.855920226085038,YouTube,Culinary Exploration,United Kingdom,Rural,Artist,40000.0,True,False,False,False,True
+42,female,8.691685518090589,Snapchat,Culinary Exploration,Australia,Rural,Teacher,60000.0,False,False,True,True,True
+50,female,5.807016461625987,Facebook,Book Clubs,United Kingdom,Sub_Urban,Software Engineer,90000.0,False,False,True,False,False
+55,male,7.146395540885203,YouTube,Book Clubs,United Kingdom,Urban,Student,30000.0,True,True,False,False,True
+23,non-binary,9.02721630264298,WhatsApp,Gaming,Australia,Urban,Chef,40000.0,False,True,False,True,True
+61,male,7.495319822345267,WhatsApp,Health & Wellness,United States,Sub_Urban,Engineer,95000.0,False,True,True,False,False
+62,male,3.9693474476790493,YouTube,Health & Wellness,United States,Rural,Doctor,120000.0,False,False,True,False,False
+49,non-binary,6.551945849671828,LinkedIn,Home Improvement,United States,Urban,Teacher,60000.0,True,False,True,False,True
+62,non-binary,5.553693305195099,YouTube,Health & Wellness,United States,Urban,Chef,50000.0,False,True,True,False,False
+64,female,7.720951292584681,Instagram,Health & Wellness,Australia,Rural,Engineer,95000.0,False,True,False,False,False
+38,non-binary,7.472121591359035,Facebook,Home Improvement,Australia,Rural,Engineer,95000.0,False,False,True,True,True
+33,female,7.796447753509213,Instagram,Home Improvement,Australia,Urban,Software Engineer,90000.0,False,True,True,False,True
+38,non-binary,7.709106280857858,LinkedIn,Culinary Exploration,United Kingdom,Rural,Chef,50000.0,False,True,True,False,True
+28,male,9.638572903367656,Facebook,E-Sports,Australia,Urban,Teacher,48000.0,False,True,True,True,True
+54,female,6.32626812654124,Instagram,Health & Wellness,United States,Rural,Software Engineer,90000.0,False,False,True,False,False
+53,female,7.893383280397664,WhatsApp,Health & Wellness,United Kingdom,Rural,Scientist,100000.0,True,True,True,False,False
+52,female,6.547477937807536,Instagram,Book Clubs,United States,Sub_Urban,Chef,50000.0,True,True,True,False,False
+36,male,8.9096910727148,YouTube,Home Improvement,United States,Rural,Teacher,60000.0,False,True,False,True,True
+37,male,7.707694273830884,Twitter,Culinary Exploration,Australia,Sub_Urban,Marketer Manager,85000.0,True,True,False,True,True
+35,male,9.437900701020453,Facebook,Home Improvement,Australia,Rural,Artist,40000.0,False,False,False,True,True
+64,male,6.295839651095457,LinkedIn,Book Clubs,United States,Urban,Scientist,100000.0,False,False,True,False,True
+58,male,6.234034721295477,Facebook,Health & Wellness,United States,Urban,Lawyer,110000.0,False,False,False,False,True
+31,female,9.018628648037224,Snapchat,Home Improvement,United Kingdom,Rural,Doctor,120000.0,True,True,True,False,True
+32,male,8.0721996666711,WhatsApp,Home Improvement,Australia,Rural,Marketer Manager,85000.0,False,False,True,False,True
+48,female,7.496402875049927,Instagram,Culinary Exploration,United Kingdom,Urban,Artist,40000.0,False,True,True,False,True
+18,male,10.452546985960074,Facebook,Gaming,United Kingdom,Rural,Lawyer,88000.0,True,False,True,True,True
+20,non-binary,8.34384049346977,LinkedIn,E-Sports,United Kingdom,Sub_Urban,Lawyer,88000.0,True,True,False,True,True
+33,female,9.911747114266996,TikTok,Culinary Exploration,United States,Sub_Urban,Scientist,100000.0,False,False,True,True,True
+40,non-binary,7.760669776949921,Facebook,Home Improvement,United Kingdom,Sub_Urban,Marketer Manager,85000.0,True,False,True,True,True
+28,female,9.153445740764893,WhatsApp,Gaming,United Kingdom,Sub_Urban,Lawyer,88000.0,True,False,False,True,True
+29,non-binary,8.717932064805376,YouTube,Gaming,United States,Sub_Urban,Software Engineer,72000.0,False,True,False,True,True
+27,male,9.540608408434437,YouTube,Gaming,Australia,Rural,Chef,40000.0,False,True,False,True,True
+49,male,6.5971620942705345,LinkedIn,Home Improvement,Australia,Rural,Artist,40000.0,False,True,True,True,True
+33,male,7.836924956225156,Facebook,Home Improvement,United Kingdom,Sub_Urban,Doctor,120000.0,True,False,False,True,True
+25,female,10.377933761034145,Instagram,E-Sports,United States,Rural,Engineer,76000.0,True,True,True,True,True
+55,non-binary,5.950022884569046,Facebook,Health & Wellness,Australia,Rural,Student,30000.0,True,True,True,False,False
+29,male,9.149830503529424,WhatsApp,E-Sports,United Kingdom,Sub_Urban,Student,24000.0,False,True,False,True,True
+41,non-binary,6.748260367248593,Twitter,Home Improvement,United Kingdom,Rural,Engineer,95000.0,True,True,False,True,True
+45,non-binary,7.792149549421549,LinkedIn,Home Improvement,United States,Rural,Scientist,100000.0,True,True,False,True,True
+25,male,10.754728886486005,LinkedIn,Gaming,United Kingdom,Rural,Artist,32000.0,False,True,True,True,True
+45,male,6.720071191742376,Twitter,Culinary Exploration,Australia,Sub_Urban,Engineer,95000.0,False,False,True,True,True
+53,non-binary,7.023764025000881,Facebook,Health & Wellness,United States,Rural,Marketer Manager,85000.0,False,False,True,False,True
+43,male,8.52836676677581,Twitter,Culinary Exploration,Australia,Urban,Software Engineer,90000.0,True,True,True,False,True
+25,male,9.325089963067281,LinkedIn,Gaming,Australia,Urban,Chef,40000.0,False,False,True,True,True
+45,male,6.840858372633578,Twitter,Culinary Exploration,Australia,Sub_Urban,Lawyer,110000.0,True,False,True,True,True
+45,female,6.010623267164561,Pinterest,Culinary Exploration,United Kingdom,Urban,Teacher,60000.0,True,True,False,False,True
+54,non-binary,5.893559229924737,Twitter,Health & Wellness,United Kingdom,Sub_Urban,Doctor,120000.0,False,True,True,False,True
+58,non-binary,7.197986567381466,YouTube,Book Clubs,Australia,Urban,Lawyer,110000.0,False,False,False,False,False
+53,female,5.511554548871093,Pinterest,Health & Wellness,Australia,Urban,Engineer,95000.0,False,True,False,False,True
+44,non-binary,8.351855134914988,Facebook,Home Improvement,United States,Urban,Marketer Manager,85000.0,False,False,False,False,True
+34,male,9.855523224109875,Twitter,Culinary Exploration,United States,Sub_Urban,Scientist,100000.0,False,False,False,False,True
+26,non-binary,10.111517560785392,LinkedIn,E-Sports,United Kingdom,Sub_Urban,Software Engineer,72000.0,True,False,False,True,True
+50,male,5.434738219527151,YouTube,Book Clubs,United Kingdom,Rural,Software Engineer,90000.0,True,True,True,False,False
+37,female,11.145610471637864,Facebook,Home Improvement,United States,Sub_Urban,Teacher,60000.0,True,False,True,False,True
+30,male,9.75344810434986,Twitter,Culinary Exploration,Australia,Urban,Lawyer,88000.0,False,True,True,False,True
+45,non-binary,7.930989788877516,LinkedIn,Culinary Exploration,United Kingdom,Urban,Teacher,60000.0,True,True,True,True,True
+46,non-binary,4.5334733701377345,YouTube,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,False,True,False,False,True
+30,non-binary,9.82156729364544,LinkedIn,Culinary Exploration,United States,Sub_Urban,Marketer Manager,68000.0,False,True,False,True,True
+63,female,6.414358471044843,Snapchat,Health & Wellness,United Kingdom,Sub_Urban,Doctor,120000.0,True,True,False,False,False
+52,female,7.968003868564494,Snapchat,Health & Wellness,United Kingdom,Rural,Engineer,95000.0,True,False,True,False,False
+23,non-binary,8.199773588358612,WhatsApp,Gaming,United States,Urban,Chef,40000.0,False,True,True,True,True
+35,male,7.712223412657059,WhatsApp,Home Improvement,United Kingdom,Rural,Engineer,95000.0,True,True,True,False,True
+22,female,10.43652163949059,Snapchat,E-Sports,United States,Rural,Lawyer,88000.0,False,True,True,True,True
+64,non-binary,5.1964894947539255,Twitter,Book Clubs,United Kingdom,Urban,Doctor,120000.0,True,True,False,False,True
+42,non-binary,6.649037184575415,YouTube,Culinary Exploration,United States,Urban,Teacher,60000.0,True,True,False,True,True
+19,female,10.124491306749658,Pinterest,E-Sports,United Kingdom,Sub_Urban,Marketer Manager,68000.0,True,False,True,True,True
+27,female,9.524777138136837,Snapchat,Gaming,Australia,Sub_Urban,Scientist,80000.0,True,True,True,True,True
+47,female,8.436112435252138,Pinterest,Home Improvement,Australia,Rural,Artist,40000.0,True,True,False,True,True
+62,male,6.107176597723371,Facebook,Health & Wellness,Australia,Sub_Urban,Doctor,120000.0,False,False,False,False,True
+22,male,9.748427385870125,Twitter,E-Sports,United Kingdom,Sub_Urban,Marketer Manager,68000.0,True,True,False,True,True
+50,non-binary,5.568852813624838,YouTube,Health & Wellness,United Kingdom,Urban,Software Engineer,90000.0,True,False,False,False,True
+18,female,11.148437703542763,WhatsApp,E-Sports,Australia,Urban,Lawyer,88000.0,True,False,True,True,True
+35,male,8.801850052682473,Twitter,Home Improvement,Australia,Sub_Urban,Doctor,120000.0,False,False,False,True,True
+49,female,6.285349676338452,Facebook,Home Improvement,United States,Urban,Lawyer,110000.0,False,False,False,True,True
+64,non-binary,4.62328118145848,Twitter,Health & Wellness,United States,Sub_Urban,Scientist,100000.0,False,True,False,False,False
+28,male,9.5799896091082,Facebook,E-Sports,United States,Urban,Doctor,96000.0,False,True,False,True,True
+38,male,8.561660015184383,Twitter,Culinary Exploration,Australia,Urban,Teacher,60000.0,False,False,True,True,True
+43,male,8.770892578450633,Twitter,Culinary Exploration,Australia,Urban,Chef,50000.0,True,False,True,True,True
+42,non-binary,7.172080153430773,YouTube,Culinary Exploration,Australia,Urban,Marketer Manager,85000.0,True,True,True,True,True
+39,female,9.44032483230311,Instagram,Culinary Exploration,United States,Sub_Urban,Engineer,95000.0,True,False,True,False,True
+44,male,8.735392997212058,Twitter,Culinary Exploration,United Kingdom,Rural,Student,30000.0,False,False,True,True,True
+30,non-binary,9.949692335701819,LinkedIn,Home Improvement,Australia,Urban,Engineer,76000.0,False,False,True,False,True
+50,female,6.718005613630302,Facebook,Book Clubs,United Kingdom,Sub_Urban,Lawyer,110000.0,True,True,False,False,False
+51,non-binary,6.922316297421113,LinkedIn,Health & Wellness,United Kingdom,Sub_Urban,Scientist,100000.0,False,False,False,False,False
+58,female,8.181027577594886,WhatsApp,Health & Wellness,United Kingdom,Urban,Lawyer,110000.0,False,True,False,False,False
+52,non-binary,7.385155343057118,WhatsApp,Book Clubs,United States,Rural,Scientist,100000.0,False,True,False,False,False
+18,female,9.834675152780838,Facebook,Gaming,United Kingdom,Urban,Lawyer,88000.0,True,True,True,True,True
+38,male,8.235253858901345,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Software Engineer,90000.0,True,False,False,False,True
+23,female,9.027610050571536,Instagram,Gaming,United States,Rural,Engineer,76000.0,False,False,True,True,True
+45,non-binary,6.13888362918246,LinkedIn,Culinary Exploration,Australia,Sub_Urban,Teacher,60000.0,False,True,False,True,True
+34,non-binary,7.621141219587747,Twitter,Home Improvement,Australia,Urban,Lawyer,110000.0,False,True,False,True,True
+22,female,9.95703534326604,Pinterest,Gaming,United States,Rural,Software Engineer,72000.0,False,True,False,True,True
+48,male,7.895861308242271,LinkedIn,Culinary Exploration,Australia,Sub_Urban,Teacher,60000.0,True,False,True,False,True
+22,male,10.634557369614036,LinkedIn,Gaming,Australia,Sub_Urban,Marketer Manager,68000.0,False,False,False,True,True
+55,female,7.314929981745818,Snapchat,Health & Wellness,United States,Sub_Urban,Marketer Manager,85000.0,True,True,True,False,False
+20,female,9.318708174951725,Facebook,Gaming,Australia,Urban,Doctor,96000.0,True,True,True,True,True
+40,non-binary,7.580759461958661,Twitter,Home Improvement,United Kingdom,Rural,Chef,50000.0,True,False,False,True,True
+54,male,7.072527317493627,LinkedIn,Book Clubs,Australia,Urban,Teacher,60000.0,False,True,True,False,True
+54,female,6.448078258268193,WhatsApp,Health & Wellness,United Kingdom,Urban,Software Engineer,90000.0,True,False,True,False,False
+27,male,9.653848466989713,YouTube,Gaming,Australia,Urban,Marketer Manager,68000.0,True,False,False,True,True
+27,female,10.360887509879197,Snapchat,E-Sports,United States,Rural,Scientist,80000.0,False,True,False,True,True
+36,female,8.580756527146498,TikTok,Home Improvement,United States,Urban,Engineer,95000.0,False,True,False,False,True
+34,male,7.903411707619189,LinkedIn,Culinary Exploration,Australia,Urban,Engineer,95000.0,False,False,False,False,True
+38,female,9.839153433028255,Pinterest,Home Improvement,United States,Urban,Marketer Manager,85000.0,True,False,False,False,True
+31,female,10.261185327431269,Snapchat,Culinary Exploration,Australia,Urban,Software Engineer,90000.0,False,False,False,True,True
+26,non-binary,8.82465821289913,WhatsApp,Gaming,United States,Sub_Urban,Artist,32000.0,True,False,True,True,True
+63,female,6.349119071732516,WhatsApp,Book Clubs,United Kingdom,Urban,Software Engineer,90000.0,True,False,False,False,True
+18,female,9.842168001503481,Facebook,E-Sports,Australia,Sub_Urban,Engineer,76000.0,False,True,False,True,True
+62,female,5.760835286526099,Snapchat,Health & Wellness,United Kingdom,Urban,Software Engineer,90000.0,True,False,True,False,True
+30,non-binary,7.082104998933572,Facebook,Culinary Exploration,United Kingdom,Rural,Teacher,48000.0,True,False,False,False,True
+21,male,9.184998388943383,YouTube,Gaming,Australia,Sub_Urban,Doctor,96000.0,True,False,True,True,True
+18,non-binary,10.57076931673478,YouTube,E-Sports,United Kingdom,Sub_Urban,Chef,40000.0,True,True,False,True,True
+57,non-binary,6.7313064801120035,YouTube,Health & Wellness,Australia,Sub_Urban,Software Engineer,90000.0,False,True,False,False,True
+49,male,7.073693687438127,LinkedIn,Culinary Exploration,United Kingdom,Sub_Urban,Engineer,95000.0,True,False,True,False,True
+51,non-binary,5.979040319040548,LinkedIn,Book Clubs,Australia,Rural,Artist,40000.0,False,False,False,False,True
+45,male,10.383612973380545,YouTube,Culinary Exploration,Australia,Urban,Software Engineer,90000.0,True,True,True,False,True
+48,non-binary,8.718885558665452,YouTube,Culinary Exploration,United States,Sub_Urban,Student,30000.0,True,True,False,False,True
+25,male,10.672623909204104,YouTube,E-Sports,Australia,Rural,Software Engineer,72000.0,False,True,False,True,True
+56,female,7.841930377674286,Pinterest,Health & Wellness,Australia,Sub_Urban,Student,30000.0,True,True,True,False,False
+43,non-binary,7.777030305406297,Facebook,Culinary Exploration,United Kingdom,Urban,Software Engineer,90000.0,True,False,False,False,True
+51,non-binary,5.304433969501826,YouTube,Health & Wellness,Australia,Sub_Urban,Lawyer,110000.0,True,True,False,False,True
+20,non-binary,10.794192328492576,Facebook,Gaming,United States,Rural,Lawyer,88000.0,True,False,True,True,True
+29,non-binary,9.34121455534004,YouTube,E-Sports,United Kingdom,Urban,Software Engineer,72000.0,True,False,False,True,True
+18,female,11.194745399439778,WhatsApp,E-Sports,United Kingdom,Rural,Software Engineer,72000.0,True,True,True,True,True
+61,non-binary,6.837543994765108,Twitter,Health & Wellness,United States,Urban,Artist,40000.0,False,True,False,False,True
+22,female,9.532248576461313,Instagram,Gaming,United Kingdom,Urban,Teacher,48000.0,False,True,True,True,True
+47,female,6.584724720503006,TikTok,Culinary Exploration,United Kingdom,Urban,Marketer Manager,85000.0,False,True,False,False,True
+47,female,5.712492742074257,WhatsApp,Home Improvement,United Kingdom,Sub_Urban,Artist,40000.0,True,False,True,False,True
+34,female,8.922382311855385,WhatsApp,Home Improvement,United Kingdom,Rural,Software Engineer,90000.0,True,False,True,True,True
+64,male,5.099296000971185,Twitter,Book Clubs,United States,Rural,Marketer Manager,85000.0,True,False,False,False,True
+40,male,9.748740586877124,YouTube,Home Improvement,United States,Rural,Artist,40000.0,False,True,False,False,True
+32,non-binary,9.14507358837606,LinkedIn,Home Improvement,United Kingdom,Urban,Software Engineer,90000.0,True,False,True,False,True
+54,male,6.256938308354865,Facebook,Book Clubs,United Kingdom,Sub_Urban,Chef,50000.0,False,True,False,False,True
+38,male,9.292636218180993,Facebook,Culinary Exploration,United States,Urban,Teacher,60000.0,True,False,True,False,True
+31,non-binary,10.16814791024309,Twitter,Culinary Exploration,United States,Rural,Student,30000.0,True,True,False,True,True
+19,non-binary,11.026078223724358,Twitter,Gaming,United States,Sub_Urban,Student,24000.0,True,False,False,True,True
+28,non-binary,8.917530954470577,WhatsApp,Gaming,United Kingdom,Sub_Urban,Lawyer,88000.0,False,False,True,True,True
+56,male,5.433275686994749,Facebook,Health & Wellness,United Kingdom,Sub_Urban,Artist,40000.0,True,True,True,False,True
+55,male,6.5035282608272835,Facebook,Health & Wellness,Australia,Rural,Scientist,100000.0,False,False,False,False,False
+51,non-binary,5.288992807133846,YouTube,Book Clubs,United States,Sub_Urban,Chef,50000.0,True,False,False,False,False
+55,female,7.136073512088726,TikTok,Book Clubs,United Kingdom,Sub_Urban,Chef,50000.0,True,True,False,False,False
+51,non-binary,6.099666044471946,Facebook,Book Clubs,United States,Urban,Teacher,60000.0,False,True,False,False,False
+35,female,8.828572036300624,WhatsApp,Home Improvement,United Kingdom,Urban,Artist,40000.0,True,True,False,False,True
+47,female,6.081480658647152,Instagram,Culinary Exploration,United States,Sub_Urban,Lawyer,110000.0,True,True,True,True,True
+32,non-binary,7.851113418861601,YouTube,Home Improvement,United Kingdom,Sub_Urban,Lawyer,110000.0,True,True,False,True,True
+44,non-binary,7.547344010707746,YouTube,Culinary Exploration,Australia,Urban,Chef,50000.0,True,False,False,True,True
+51,non-binary,5.452996636697323,LinkedIn,Health & Wellness,Australia,Urban,Engineer,95000.0,False,True,True,False,False
+55,male,6.321481008056588,YouTube,Book Clubs,United States,Urban,Scientist,100000.0,False,False,True,False,False
+50,female,7.719255297503965,WhatsApp,Book Clubs,United Kingdom,Rural,Lawyer,110000.0,True,False,True,False,True
+41,male,6.8282180742208824,LinkedIn,Home Improvement,United Kingdom,Rural,Student,30000.0,True,True,False,True,True
+32,male,9.5118474986577,WhatsApp,Culinary Exploration,United States,Urban,Student,30000.0,False,False,True,False,True
+47,non-binary,7.590788062350729,Twitter,Culinary Exploration,United Kingdom,Sub_Urban,Chef,50000.0,True,False,True,False,True
+59,male,4.469544407237663,LinkedIn,Book Clubs,United States,Urban,Chef,50000.0,False,True,True,False,False
+34,non-binary,7.170694063087586,Facebook,Home Improvement,United Kingdom,Rural,Student,30000.0,True,False,True,False,True
+22,female,10.035037571718238,TikTok,E-Sports,United States,Sub_Urban,Artist,32000.0,False,True,False,True,True
+46,non-binary,6.590315738141889,LinkedIn,Culinary Exploration,United Kingdom,Rural,Artist,40000.0,False,True,False,False,True
+21,male,8.959813343986792,WhatsApp,E-Sports,United States,Sub_Urban,Artist,32000.0,False,True,False,True,True
+27,male,9.25095869498199,LinkedIn,E-Sports,United Kingdom,Rural,Teacher,48000.0,False,False,True,True,True
+34,non-binary,7.66486064273673,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Marketer Manager,85000.0,True,False,True,True,True
+27,non-binary,9.542011139417973,YouTube,E-Sports,United Kingdom,Sub_Urban,Chef,40000.0,True,False,True,True,True
+34,male,8.256350271448422,WhatsApp,Home Improvement,United States,Sub_Urban,Lawyer,110000.0,False,False,True,True,True
+37,female,8.599653613998274,WhatsApp,Home Improvement,Australia,Sub_Urban,Artist,40000.0,False,True,True,False,True
+41,female,6.849716460532491,Facebook,Culinary Exploration,United Kingdom,Rural,Teacher,60000.0,False,False,True,True,True
+22,non-binary,10.252039678010295,Twitter,E-Sports,Australia,Rural,Artist,32000.0,False,True,False,True,True
+51,female,7.833749459602231,Snapchat,Health & Wellness,United Kingdom,Sub_Urban,Teacher,60000.0,True,False,False,False,False
+23,male,10.939327915249917,Facebook,E-Sports,Australia,Sub_Urban,Student,24000.0,False,False,True,True,True
+19,non-binary,9.935736018712875,YouTube,E-Sports,United States,Rural,Chef,40000.0,False,False,False,True,True
+30,male,9.058698366248384,Twitter,Home Improvement,United Kingdom,Sub_Urban,Engineer,76000.0,False,False,True,True,True
+60,male,6.769862770061582,Twitter,Health & Wellness,United Kingdom,Sub_Urban,Artist,40000.0,False,False,True,False,False
+60,female,5.817164994380967,Instagram,Book Clubs,United States,Sub_Urban,Artist,40000.0,False,True,False,False,False
+28,non-binary,7.438376242952162,Twitter,Gaming,Australia,Urban,Doctor,96000.0,False,False,True,True,True
+64,non-binary,5.142728589647457,YouTube,Book Clubs,United States,Sub_Urban,Chef,50000.0,False,False,False,False,False
+40,female,8.383083997512164,TikTok,Culinary Exploration,United States,Urban,Software Engineer,90000.0,True,False,True,True,True
+33,male,7.136671933166922,Twitter,Home Improvement,Australia,Sub_Urban,Software Engineer,90000.0,False,False,True,True,True
+48,male,7.715659999743024,LinkedIn,Culinary Exploration,United States,Rural,Chef,50000.0,False,True,False,True,True
+28,male,10.399552124244098,Twitter,E-Sports,United Kingdom,Urban,Software Engineer,72000.0,False,False,True,True,True
+33,male,9.747025016444724,Twitter,Home Improvement,United Kingdom,Urban,Student,30000.0,True,True,True,False,True
+25,non-binary,11.518541840729513,WhatsApp,Gaming,United Kingdom,Sub_Urban,Artist,32000.0,True,False,True,True,True
+21,non-binary,10.586997760591858,YouTube,Gaming,United States,Sub_Urban,Software Engineer,72000.0,True,True,False,True,True
+57,female,6.889564780911155,Instagram,Book Clubs,United Kingdom,Urban,Artist,40000.0,False,True,True,False,False
+21,female,9.216076433725119,Instagram,E-Sports,United Kingdom,Rural,Engineer,76000.0,False,True,True,True,True
+42,non-binary,8.892872592609733,WhatsApp,Culinary Exploration,United Kingdom,Rural,Scientist,100000.0,False,True,True,True,True
+20,non-binary,9.063333280566036,WhatsApp,E-Sports,United Kingdom,Sub_Urban,Chef,40000.0,True,True,False,True,True
+49,male,7.2281271623982954,Facebook,Culinary Exploration,United Kingdom,Rural,Chef,50000.0,False,False,False,False,True
+20,male,10.634424166344399,LinkedIn,E-Sports,United Kingdom,Rural,Marketer Manager,68000.0,True,True,False,True,True
+44,female,6.054290070628699,Snapchat,Culinary Exploration,United States,Sub_Urban,Scientist,100000.0,True,False,False,True,True
+46,non-binary,7.211963501605537,YouTube,Home Improvement,United Kingdom,Rural,Lawyer,110000.0,True,True,False,True,True
+49,female,7.0780212726850635,TikTok,Home Improvement,United Kingdom,Sub_Urban,Artist,40000.0,True,True,True,False,True
+36,non-binary,8.260438391800085,Twitter,Home Improvement,Australia,Urban,Teacher,60000.0,True,False,False,True,True
+38,male,7.439749441106928,Twitter,Culinary Exploration,United States,Sub_Urban,Doctor,120000.0,False,True,False,True,True
+22,female,11.163022796867068,WhatsApp,E-Sports,United States,Urban,Lawyer,88000.0,False,True,True,True,True
+35,female,8.579425902218127,Pinterest,Culinary Exploration,United States,Urban,Scientist,100000.0,True,True,False,True,True
+45,non-binary,7.40827486819903,Facebook,Culinary Exploration,United States,Rural,Artist,40000.0,False,True,True,False,True
+59,male,5.8638576623420064,YouTube,Book Clubs,United Kingdom,Rural,Marketer Manager,85000.0,False,False,False,False,False
+39,female,7.987759325595946,Instagram,Culinary Exploration,United Kingdom,Rural,Chef,50000.0,True,True,True,True,True
+38,male,8.016452319139116,YouTube,Culinary Exploration,Australia,Sub_Urban,Engineer,95000.0,True,True,True,False,True
+23,female,10.82537234290223,Snapchat,E-Sports,Australia,Rural,Teacher,48000.0,False,False,False,True,True
+18,male,9.32091249887239,LinkedIn,Gaming,United States,Urban,Doctor,96000.0,False,False,False,True,True
+22,non-binary,9.455197102650542,Twitter,E-Sports,Australia,Rural,Lawyer,88000.0,False,True,True,True,True
+58,female,6.3382799997530235,Pinterest,Book Clubs,Australia,Rural,Lawyer,110000.0,False,True,True,False,False
+29,female,8.410963614496408,WhatsApp,Gaming,United States,Sub_Urban,Marketer Manager,68000.0,True,False,True,True,True
+43,male,6.497759056856859,YouTube,Culinary Exploration,United States,Sub_Urban,Doctor,120000.0,False,True,True,True,True
+63,male,5.25637643502624,Facebook,Health & Wellness,Australia,Urban,Scientist,100000.0,True,False,True,False,False
+51,female,7.4658252634526185,Instagram,Health & Wellness,United Kingdom,Sub_Urban,Scientist,100000.0,True,True,True,False,False
+31,non-binary,9.97569717318899,WhatsApp,Culinary Exploration,Australia,Rural,Scientist,100000.0,False,False,True,True,True
+43,male,8.578342400292293,YouTube,Culinary Exploration,Australia,Sub_Urban,Marketer Manager,85000.0,False,False,False,False,True
+62,male,5.64371142506395,LinkedIn,Health & Wellness,United Kingdom,Urban,Doctor,120000.0,False,False,True,False,True
+44,male,9.287694730284597,LinkedIn,Home Improvement,United Kingdom,Rural,Student,30000.0,True,True,False,True,True
+26,female,10.166130199480538,Snapchat,E-Sports,United States,Urban,Software Engineer,72000.0,True,True,False,True,True
+43,female,8.26446316282901,Facebook,Home Improvement,United States,Sub_Urban,Software Engineer,90000.0,True,True,True,False,True
+64,female,5.328609133048168,Snapchat,Book Clubs,Australia,Sub_Urban,Teacher,60000.0,True,True,True,False,False
+39,female,7.194681495203146,Pinterest,Culinary Exploration,United Kingdom,Urban,Doctor,120000.0,False,False,False,False,True
+64,non-binary,6.596315496158455,YouTube,Book Clubs,United States,Rural,Doctor,120000.0,True,False,True,False,True
+47,non-binary,7.467850666985974,Facebook,Home Improvement,Australia,Sub_Urban,Teacher,60000.0,True,False,True,False,True
+60,female,5.614395052313818,Facebook,Book Clubs,United Kingdom,Sub_Urban,Software Engineer,90000.0,False,True,False,False,False
+34,non-binary,9.316277553798843,YouTube,Culinary Exploration,Australia,Rural,Teacher,60000.0,True,True,False,True,True
+43,male,7.318751371191877,YouTube,Home Improvement,United States,Sub_Urban,Marketer Manager,85000.0,True,True,False,True,True
+53,male,8.30603039218148,Facebook,Book Clubs,United States,Urban,Scientist,100000.0,False,False,True,False,True
+18,male,10.765462810067639,WhatsApp,Gaming,United Kingdom,Sub_Urban,Teacher,48000.0,True,True,True,True,True
+25,female,8.143596737492041,Facebook,E-Sports,Australia,Sub_Urban,Chef,40000.0,True,True,False,True,True
+52,male,6.413749908462518,Facebook,Health & Wellness,United Kingdom,Rural,Chef,50000.0,True,False,True,False,True
+32,non-binary,10.250822780272303,Twitter,Home Improvement,United States,Urban,Student,30000.0,True,False,False,True,True
+64,female,5.908493916346742,Pinterest,Health & Wellness,United States,Rural,Lawyer,110000.0,False,True,True,False,False
+39,non-binary,7.513112687131137,LinkedIn,Home Improvement,Australia,Sub_Urban,Teacher,60000.0,True,False,False,False,True
+31,male,8.59918109260408,Facebook,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,False,True,True,False,True
+43,male,8.182193173424043,Twitter,Home Improvement,Australia,Rural,Student,30000.0,True,False,False,True,True
+45,male,8.245624713977069,LinkedIn,Home Improvement,United Kingdom,Rural,Student,30000.0,False,False,True,True,True
+40,female,7.1847302581213075,Snapchat,Culinary Exploration,Australia,Rural,Engineer,95000.0,False,False,True,True,True
+31,non-binary,8.891980357101584,Twitter,Home Improvement,Australia,Urban,Lawyer,110000.0,False,True,False,True,True
+41,female,5.248720962563352,Instagram,Home Improvement,United States,Sub_Urban,Software Engineer,90000.0,True,True,True,True,True
+19,female,12.045887186188127,TikTok,E-Sports,United States,Rural,Chef,40000.0,True,True,True,True,True
+62,male,3.631962800111697,WhatsApp,Health & Wellness,Australia,Sub_Urban,Marketer Manager,85000.0,True,False,False,False,True
+43,female,7.757003518529649,Snapchat,Culinary Exploration,Australia,Urban,Scientist,100000.0,False,False,True,False,True
+31,female,10.457154281601932,Facebook,Home Improvement,United States,Urban,Scientist,100000.0,True,False,True,False,True
+24,male,9.078522819727034,YouTube,Gaming,Australia,Urban,Doctor,96000.0,True,False,True,True,True
+20,female,9.745295402894554,TikTok,Gaming,United Kingdom,Urban,Artist,32000.0,True,True,False,True,True
+64,male,6.454398151364697,Twitter,Health & Wellness,United Kingdom,Sub_Urban,Software Engineer,90000.0,True,True,False,False,False
+40,male,7.034590293052333,WhatsApp,Culinary Exploration,United Kingdom,Urban,Artist,40000.0,False,True,False,True,True
+63,male,5.228384549117159,LinkedIn,Health & Wellness,Australia,Urban,Lawyer,110000.0,False,False,False,False,True
+60,male,6.524510162393942,Facebook,Book Clubs,United States,Rural,Student,30000.0,True,False,False,False,True
+64,female,5.944381110314383,Instagram,Book Clubs,Australia,Urban,Student,30000.0,True,True,True,False,True
+62,male,7.2672444466125565,LinkedIn,Book Clubs,Australia,Rural,Engineer,95000.0,True,False,True,False,False
+35,male,7.699674796275858,Twitter,Culinary Exploration,United States,Urban,Software Engineer,90000.0,False,True,False,True,True
+55,female,6.621099665607537,TikTok,Health & Wellness,United States,Urban,Doctor,120000.0,True,False,True,False,True
+52,female,6.538315523801348,Facebook,Health & Wellness,United States,Rural,Doctor,120000.0,False,False,True,False,False
+32,non-binary,8.378586889845119,YouTube,Home Improvement,United Kingdom,Urban,Software Engineer,90000.0,False,True,True,False,True
+42,female,6.309183946226543,Pinterest,Culinary Exploration,Australia,Sub_Urban,Teacher,60000.0,True,True,True,False,True
+54,female,7.16842718264929,TikTok,Health & Wellness,United States,Sub_Urban,Teacher,60000.0,True,False,False,False,False
+45,non-binary,7.225827205454467,LinkedIn,Culinary Exploration,Australia,Urban,Marketer Manager,85000.0,True,True,False,True,True
+27,female,8.391333089847834,WhatsApp,Gaming,United Kingdom,Sub_Urban,Lawyer,88000.0,False,True,True,True,True
+56,female,6.605339902930144,TikTok,Health & Wellness,United Kingdom,Rural,Student,30000.0,False,False,True,False,False
+34,female,7.086179401084963,WhatsApp,Culinary Exploration,United States,Urban,Lawyer,110000.0,True,False,False,True,True
+56,female,6.065961606257653,TikTok,Health & Wellness,United States,Urban,Scientist,100000.0,False,False,True,False,False
+39,non-binary,9.317070264395417,LinkedIn,Home Improvement,Australia,Rural,Chef,50000.0,True,True,True,False,True
+43,female,8.233927990958648,Facebook,Culinary Exploration,United States,Rural,Teacher,60000.0,True,False,True,False,True
+61,female,5.719332940368072,Facebook,Health & Wellness,Australia,Rural,Chef,50000.0,False,False,False,False,False
+42,non-binary,7.123510988859213,Twitter,Culinary Exploration,United States,Urban,Scientist,100000.0,False,False,False,True,True
+34,male,8.640887776037358,WhatsApp,Home Improvement,Australia,Rural,Engineer,95000.0,False,False,True,True,True
+30,non-binary,8.140152396349654,Twitter,Culinary Exploration,Australia,Rural,Marketer Manager,68000.0,False,False,True,False,True
+37,male,8.342840836109412,LinkedIn,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,True,True,True,True,True
+42,non-binary,8.924225190801168,Facebook,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,True,False,True,True,True
+21,non-binary,9.840938907037577,YouTube,E-Sports,United Kingdom,Urban,Doctor,96000.0,True,False,True,True,True
+27,female,9.124594603869967,TikTok,E-Sports,Australia,Sub_Urban,Chef,40000.0,False,True,True,True,True
+20,male,10.097750853261642,LinkedIn,Gaming,United States,Sub_Urban,Software Engineer,72000.0,True,False,False,True,True
+58,female,5.982267404939343,TikTok,Health & Wellness,United Kingdom,Rural,Marketer Manager,85000.0,False,False,False,False,False
+62,male,6.364493947725798,LinkedIn,Health & Wellness,United Kingdom,Rural,Student,30000.0,False,True,True,False,False
+35,non-binary,9.303039960345162,Facebook,Home Improvement,Australia,Sub_Urban,Engineer,95000.0,False,False,False,True,True
+64,non-binary,5.638074778546741,LinkedIn,Book Clubs,United Kingdom,Sub_Urban,Artist,40000.0,True,True,True,False,False
+53,male,8.000025973369688,Facebook,Health & Wellness,Australia,Sub_Urban,Artist,40000.0,False,False,True,False,True
+64,female,6.4873153692021575,Instagram,Health & Wellness,United States,Urban,Artist,40000.0,False,True,False,False,False
+39,female,8.675331998267088,Pinterest,Home Improvement,Australia,Urban,Scientist,100000.0,False,True,False,True,True
+51,female,6.084988392139988,WhatsApp,Health & Wellness,United Kingdom,Urban,Lawyer,110000.0,False,False,True,False,True
+64,female,4.509437697213816,TikTok,Book Clubs,United States,Sub_Urban,Teacher,60000.0,False,True,True,False,True
+25,non-binary,11.481497699035646,Facebook,Gaming,Australia,Sub_Urban,Teacher,48000.0,False,True,False,True,True
+57,non-binary,8.141384928592867,LinkedIn,Health & Wellness,United States,Urban,Teacher,60000.0,False,False,False,False,False
+61,non-binary,5.1842709388558745,WhatsApp,Health & Wellness,United States,Urban,Doctor,120000.0,False,False,True,False,False
+36,non-binary,8.639679306854688,Twitter,Culinary Exploration,United Kingdom,Sub_Urban,Lawyer,110000.0,False,True,True,False,True
+59,non-binary,5.724529327596636,YouTube,Health & Wellness,United States,Rural,Marketer Manager,85000.0,False,False,True,False,True
+58,female,6.041771395532348,TikTok,Book Clubs,United Kingdom,Urban,Doctor,120000.0,False,True,False,False,True
+54,female,7.335441854303801,WhatsApp,Health & Wellness,United States,Sub_Urban,Student,30000.0,False,True,True,False,False
+23,female,9.821306483377981,WhatsApp,E-Sports,Australia,Sub_Urban,Chef,40000.0,True,False,False,True,True
+43,female,8.09262349949865,WhatsApp,Home Improvement,United States,Rural,Marketer Manager,85000.0,True,False,True,False,True
+51,non-binary,7.392268483382209,WhatsApp,Health & Wellness,Australia,Sub_Urban,Lawyer,110000.0,False,True,False,False,True
+62,non-binary,7.880627923763392,LinkedIn,Book Clubs,Australia,Sub_Urban,Lawyer,110000.0,False,False,False,False,False
+23,non-binary,9.402633766503584,WhatsApp,E-Sports,United States,Urban,Lawyer,88000.0,False,False,False,True,True
+54,male,7.425533813738591,YouTube,Book Clubs,Australia,Urban,Lawyer,110000.0,True,True,False,False,True
+50,female,5.155370284116246,Snapchat,Book Clubs,United States,Rural,Scientist,100000.0,True,True,True,False,True
+39,female,7.089009954136301,Instagram,Culinary Exploration,United States,Rural,Software Engineer,90000.0,True,True,False,True,True
+38,non-binary,8.372662315504241,WhatsApp,Home Improvement,Australia,Sub_Urban,Student,30000.0,False,True,False,False,True
+23,female,10.017508293171142,Facebook,Gaming,Australia,Urban,Teacher,48000.0,False,True,False,True,True
+23,female,12.193461964504984,Snapchat,Gaming,United Kingdom,Rural,Student,24000.0,False,True,True,True,True
+21,non-binary,10.606728015399282,Twitter,E-Sports,Australia,Rural,Software Engineer,72000.0,False,False,True,True,True
+47,male,7.268492134337988,YouTube,Home Improvement,United Kingdom,Rural,Software Engineer,90000.0,True,True,True,True,True
+28,male,9.26930517441141,WhatsApp,Gaming,Australia,Sub_Urban,Chef,40000.0,False,False,True,True,True
+47,male,6.583459960792565,Twitter,Home Improvement,United States,Urban,Engineer,95000.0,True,False,True,True,True
+48,non-binary,6.3109841940245905,LinkedIn,Home Improvement,Australia,Rural,Teacher,60000.0,True,True,True,False,True
+41,female,7.428871063331231,Facebook,Culinary Exploration,United States,Urban,Marketer Manager,85000.0,False,False,False,True,True
+26,non-binary,7.804361683318755,Twitter,Gaming,United States,Rural,Software Engineer,72000.0,True,True,False,True,True
+20,non-binary,9.337818754948232,LinkedIn,E-Sports,United States,Rural,Teacher,48000.0,True,False,False,True,True
+48,female,7.487698548984282,Snapchat,Home Improvement,United Kingdom,Urban,Student,30000.0,True,True,True,True,True
+57,male,4.9719374688705145,YouTube,Health & Wellness,Australia,Urban,Marketer Manager,85000.0,True,True,False,False,False
+54,male,7.5891050654495595,Facebook,Book Clubs,United States,Urban,Doctor,120000.0,False,True,False,False,True
+53,non-binary,6.653461406239111,LinkedIn,Book Clubs,United States,Sub_Urban,Engineer,95000.0,False,True,True,False,False
+41,male,9.158831405397471,YouTube,Home Improvement,United Kingdom,Rural,Marketer Manager,85000.0,True,False,False,False,True
+48,non-binary,7.577497801291561,YouTube,Culinary Exploration,Australia,Sub_Urban,Scientist,100000.0,False,False,True,True,True
+23,non-binary,9.964009389922271,Facebook,E-Sports,Australia,Urban,Scientist,80000.0,True,False,False,True,True
+19,female,10.758980532128943,WhatsApp,E-Sports,United Kingdom,Rural,Scientist,80000.0,False,False,True,True,True
+37,female,7.116340959054716,WhatsApp,Home Improvement,United Kingdom,Sub_Urban,Marketer Manager,85000.0,False,False,True,False,True
+45,female,6.5192179665057095,Instagram,Home Improvement,Australia,Rural,Lawyer,110000.0,False,True,True,False,True
+28,non-binary,8.98335137010289,YouTube,E-Sports,United Kingdom,Sub_Urban,Marketer Manager,68000.0,False,True,False,True,True
+21,female,9.890171571548443,Snapchat,E-Sports,Australia,Urban,Doctor,96000.0,False,True,False,True,True
+32,male,8.738449432120104,WhatsApp,Culinary Exploration,Australia,Sub_Urban,Student,30000.0,True,True,True,True,True
+23,male,8.912855167387805,WhatsApp,Gaming,United States,Rural,Teacher,48000.0,False,True,True,True,True
+47,non-binary,6.407266652744904,Facebook,Home Improvement,United States,Rural,Software Engineer,90000.0,True,False,False,True,True
+55,non-binary,6.479676315533531,LinkedIn,Book Clubs,Australia,Rural,Scientist,100000.0,True,True,False,False,True
+19,female,9.620156226047385,Snapchat,E-Sports,Australia,Rural,Lawyer,88000.0,False,True,True,True,True
+32,non-binary,8.01175071513695,YouTube,Home Improvement,Australia,Urban,Student,30000.0,True,False,False,True,True
+28,non-binary,9.590708151359204,WhatsApp,E-Sports,Australia,Sub_Urban,Software Engineer,72000.0,False,False,False,True,True
+25,male,9.347331295448845,WhatsApp,E-Sports,Australia,Urban,Artist,32000.0,True,True,False,True,True
+43,male,9.098378436969895,YouTube,Home Improvement,Australia,Urban,Marketer Manager,85000.0,True,True,True,True,True
+62,female,6.911630822211061,Pinterest,Book Clubs,United Kingdom,Urban,Software Engineer,90000.0,False,False,True,False,False
+61,non-binary,6.589748561273681,LinkedIn,Book Clubs,Australia,Rural,Student,30000.0,False,True,False,False,False
+22,non-binary,9.676436277245255,LinkedIn,Gaming,United Kingdom,Rural,Teacher,48000.0,False,True,True,True,True
+23,male,8.72665895110316,Twitter,E-Sports,United Kingdom,Rural,Scientist,80000.0,False,True,False,True,True
+43,non-binary,8.998786838100383,Facebook,Home Improvement,Australia,Sub_Urban,Student,30000.0,True,False,False,False,True
+21,male,10.493540537697303,LinkedIn,E-Sports,Australia,Rural,Artist,32000.0,False,True,True,True,True
+36,female,9.604565107179253,WhatsApp,Culinary Exploration,United Kingdom,Sub_Urban,Software Engineer,90000.0,True,True,True,False,True
+37,male,7.840152948312405,LinkedIn,Home Improvement,United Kingdom,Rural,Engineer,95000.0,True,False,True,False,True
+50,non-binary,9.597811508385883,WhatsApp,Health & Wellness,Australia,Rural,Teacher,60000.0,True,False,False,False,False
+37,female,9.472516216721688,Facebook,Culinary Exploration,Australia,Urban,Artist,40000.0,True,False,False,True,True
+29,male,8.97879814947514,Twitter,Gaming,United Kingdom,Urban,Teacher,48000.0,True,True,True,True,True
+64,male,6.627505477593015,YouTube,Book Clubs,United Kingdom,Urban,Software Engineer,90000.0,True,False,True,False,True
+18,female,11.043139585577531,Snapchat,E-Sports,United Kingdom,Sub_Urban,Software Engineer,72000.0,False,True,True,True,True
+43,female,7.747042228496829,WhatsApp,Home Improvement,United States,Sub_Urban,Scientist,100000.0,True,False,False,True,True
+31,male,11.477329517990286,Facebook,Culinary Exploration,United Kingdom,Rural,Lawyer,110000.0,True,True,False,False,True
+55,non-binary,7.651781525465657,Facebook,Book Clubs,United States,Sub_Urban,Artist,40000.0,True,False,False,False,False
+54,male,8.153706777427038,YouTube,Health & Wellness,Australia,Rural,Teacher,60000.0,False,True,True,False,False
+28,female,11.461662177776537,WhatsApp,E-Sports,Australia,Sub_Urban,Chef,40000.0,False,True,True,True,True
+53,male,5.672000118995959,Twitter,Health & Wellness,United Kingdom,Sub_Urban,Artist,40000.0,True,False,False,False,False
+30,female,8.983332035894241,Snapchat,Culinary Exploration,Australia,Sub_Urban,Doctor,96000.0,False,False,True,True,True
+60,female,6.532729492088151,Snapchat,Book Clubs,Australia,Urban,Engineer,95000.0,True,True,True,False,True
+20,non-binary,9.88230938937508,YouTube,E-Sports,Australia,Sub_Urban,Chef,40000.0,False,False,True,True,True
+50,female,6.7300548219535825,Snapchat,Book Clubs,Australia,Urban,Lawyer,110000.0,True,True,True,False,True
+23,female,9.967317260061451,Pinterest,E-Sports,United States,Urban,Artist,32000.0,False,False,False,True,True
+27,non-binary,11.084454946908593,YouTube,Gaming,United States,Sub_Urban,Lawyer,88000.0,False,False,True,True,True
+22,female,8.633790133384403,Facebook,Gaming,United Kingdom,Rural,Lawyer,88000.0,False,True,False,True,True
+40,non-binary,7.2749205956776315,LinkedIn,Home Improvement,United Kingdom,Rural,Doctor,120000.0,True,False,False,False,True
+27,non-binary,9.330848042894496,LinkedIn,E-Sports,United Kingdom,Rural,Software Engineer,72000.0,True,False,True,True,True
+61,female,5.865420219463632,Instagram,Book Clubs,Australia,Sub_Urban,Engineer,95000.0,True,True,False,False,False
+19,female,9.545752619933097,Snapchat,Gaming,Australia,Rural,Teacher,48000.0,False,True,False,True,True
