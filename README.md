@@ -1,1 +1,1 @@
-A Jupyter Notebook project for analyzing trends and changes in social media datasets. This repository leverages data science techniques such as exploratory data analysis (EDA), linear regression, and multiple regression analysis to uncover patterns, visualize insights, and track the evolution of social media conversations over time.
+
